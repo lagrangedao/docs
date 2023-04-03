@@ -41,4 +41,11 @@ The Bidding State Machine has defined transitions between states:
 8. reset\_accepting\_bids\_to\_created: Transition from 'Accepting\_Bids' to 'Created'.
 9. reset\_failed\_bids\_to\_created: Transition from 'Failed' to 'Created'.
 
-****
+### Rules
+
+The bidding task state machine should include the following rules:
+
+* A bidder cannot place a bid if they have exceeded their limit on the number of jobs they can process simultaneously.
+* Once a bidder has completed a job, they cannot be assigned any further jobs on the same task.
+
+If the task is cancelled, all bids and jobs associated with the task are cancelled as well
