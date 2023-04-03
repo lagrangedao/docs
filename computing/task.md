@@ -1,11 +1,11 @@
-## Task definition
-Bidders have the ability to set a limit on the number of bids they can process at the same time. This feature prevents
-them from accepting new bids once they reach their specified limit, enabling bidders to effectively manage their
-workload and participate in multiple tasks without overextending themselves.
-User can convert a space to a task:
+# Task
+
+### Task definition
+
+Bidders have the ability to set a limit on the number of bids they can process at the same time. This feature prevents them from accepting new bids once they reach their specified limit, enabling bidders to effectively manage their workload and participate in multiple tasks without overextending themselves. User can convert a space to a task:
 
 | Role     | Action         |
-|----------|----------------|
+| -------- | -------------- |
 | Task     | Created        |
 | Task     | Accepting Bids |
 | Task     | Bid Closed     |
@@ -15,13 +15,13 @@ User can convert a space to a task:
 | Task/Job | Failed         |
 | Task     | Cancelled      |
 
-## Bidding State Machine
+### Bidding State Machine
 
-![readme_lagrange_machine.png](readme_lagrange_machine.png)
+<figure><img src="../.gitbook/assets/readme_lagrange_machine.png" alt=""><figcaption></figcaption></figure>
 
-## Task Types
+### Task Types
 
-### Resource Usage
+#### Resource Usage
 
 Use scenario - space
 
@@ -32,9 +32,9 @@ Use scenario - space
 * if the status reached "completed" or "Failed".
 * The status will be finalized in Mysql
 
-### API Requests
+#### API Requests
 
-## Task Publishing
+### Task Publishing
 
 A task need to announce the following factors:
 
@@ -45,15 +45,15 @@ A task need to announce the following factors:
 
 Task information is created and insert to the celery task queue, then it enters the bidding statemachine.
 
-### Example
+#### Example
 
 * When use create/update a space, it is automatically converted to a task
-    * task schedule check the hook every minutes
-    * it can be in a task queue
+  * task schedule check the hook every minutes
+  * it can be in a task queue
 * If the reserved hours expired
-    * User can manually trigger it
+  * User can manually trigger it
 
-## Computing Provider (CP) Registration
+### Computing Provider (CP) Registration
 
 Computing Provider publish its host information on chain:
 
@@ -63,31 +63,29 @@ Computing Provider publish its host information on chain:
 
 The v1 version provide a platform for easy signup.
 
-## Task Bidding
+### Task Bidding
 
-### Pipeline
+#### Pipeline
 
 * Producer(Lagrange) Publish the task
 * Task is open to bidding status
 * CP bidding for the job
 * Bidding close when
-    * Bid limit reached
-    * Task owner decide to close it
+  * Bid limit reached
+  * Task owner decide to close it
 * Processing the task
 * Each bidder uploaded their bidding result
 * The winner will be marked as completed and elector as the leading node
 * Task Published and Bidder get paid
 
-### Bid negotiation
+#### Bid negotiation
 
-A task will generate a bidder id when a bidder join the bidding process.
-Bidder will get a job if he gets the bid.
-If the ask price in the range of bid price, the SP will win the bid
+A task will generate a bidder id when a bidder join the bidding process. Bidder will get a job if he gets the bid. If the ask price in the range of bid price, the SP will win the bid
 
-### Liquidity Provider
+#### Liquidity Provider
 
 Liquidity provider is offering the price match for different type of orders.e.g. storage, computing
 
-## Payment
+### Payment
 
 User pay for the storage when he first time create the space, he can extend it if he wants.
