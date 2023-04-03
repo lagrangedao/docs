@@ -9,3 +9,4 @@
 * [Models](models.md)
 * [Spaces](spaces/README.md)
   * [Docker Spaces](spaces/docker-spaces.md)
+* [API Reference](api-reference.md)
