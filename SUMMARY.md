@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Introduction](README.md)
-*
+* [datasets]
+  * [data-card](datasets/data-card.md)
 * [Computing](computing/README.md)
   * [Bidding Task State Machine](computing/bidding-task-state-machine.md)
   * [Task](computing/task.md)
