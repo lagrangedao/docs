@@ -1,10 +1,12 @@
 ---
-description: Creative Data Modeling in web3
+description: Provides data sharing & analytic spaces for Decentralized science(DeSci)
 ---
 
-# Home
+# Introduction
 
 Lagrange DAO is a DAO for data value realization. It provides data sharing & analytic spaces for Decentralized science(DeSci). With Lagrange Spaces, researchers are able to use public infrastructure for storing, sharing, creating, rewarding,and disseminating scientific knowledge fairly and equitably using the Web3 stack.
+
+
 
 
 
