@@ -6,5 +6,5 @@
 * [Models](models.md)
 * [Spaces](spaces/README.md)
   * [Docker Spaces](spaces/docker-spaces.md)
-  * [Computing](spaces/computing/README.md)
-    * [Bidding Task State Machine](spaces/computing/bidding-task-state-machine.md)
+  * [Computing](computing/README.md)
+    * [Bidding Task State Machine](computing/bidding-task-state-machine.md)
