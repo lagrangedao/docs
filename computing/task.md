@@ -21,19 +21,6 @@ Bidders have the ability to set a limit on the number of bids they can process a
 
 ### Task Types
 
-#### Resource Usage
-
-Use scenario - space
-
-* When use create/update a space, a default task is created.
-* The task is stored in Mysql and create a task in redis as well.
-* After the task in redis, the user can start bidding
-* User can query its status in redis.
-* if the status reached "completed" or "Failed".
-* The status will be finalized in Mysql
-
-#### API Requests
-
 ### Task Publishing
 
 A task need to announce the following factors:
@@ -43,7 +30,7 @@ A task need to announce the following factors:
 * Time
 * Pricing
 
-Task information is created and insert to the celery task queue, then it enters the bidding statemachine.
+Task information is created and insert to the celery task queue, then it enters the bidding state machin.
 
 #### Example
 
@@ -57,9 +44,8 @@ Task information is created and insert to the celery task queue, then it enters 
 
 Computing Provider publish its host information on chain:
 
-* Host IP
-* Host port
-* Owner Address
+* Node ID
+* Multi-Address
 
 The v1 version provide a platform for easy signup.
 
@@ -82,9 +68,7 @@ The v1 version provide a platform for easy signup.
 
 A task will generate a bidder id when a bidder join the bidding process. Bidder will get a job if he gets the bid. If the ask price in the range of bid price, the SP will win the bid
 
-#### Liquidity Provider
 
-Liquidity provider is offering the price match for different type of orders.e.g. storage, computing
 
 ### Payment
 
