@@ -18,4 +18,4 @@ By leveraging blockchain technology and decentralized networks, Lagrange DAO is 
 
 
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td><a href="broken-reference">Datasets</a></td><td></td></tr><tr><td></td><td>Models</td><td></td></tr><tr><td></td><td>Spaces</td><td></td></tr><tr><td></td><td>Other</td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td><a href="datasets/">Datasets</a></td><td></td></tr><tr><td></td><td><a href="models.md">Models</a></td><td></td></tr><tr><td></td><td><a href="spaces/">Spaces</a></td><td></td></tr><tr><td></td><td><a href="computing/">Computing</a></td><td></td></tr></tbody></table>
