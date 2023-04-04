@@ -8,8 +8,7 @@ Bidders have the ability to set a limit on the number of bids they can process a
 | -------- | -------------- |
 | Task     | Created        |
 | Task     | Accepting Bids |
-| Task     | Bid Closed     |
-| Task/Job | Processing     |
+| Task/Job | Bid Closed     |
 | Job      | Submitted      |
 | Task/Job | Completed      |
 | Task/Job | Failed         |
@@ -30,7 +29,7 @@ A task need to announce the following factors:
 * Time
 * Pricing
 
-Task information is created and insert to the celery task queue, then it enters the bidding state machin.
+Task information is created and insert to the celery task queue, then it enters the bidding state machine.
 
 #### Example
 
@@ -59,7 +58,7 @@ The v1 version provide a platform for easy signup.
 * Bidding close when
   * Bid limit reached
   * Task owner decide to close it
-* Task publisher alocted the bidder
+* Task publisher allocate the bidder
 * Bidder is notified for bidder acceptance
 * Processing the task
 * Each bidder uploaded their bidding result
