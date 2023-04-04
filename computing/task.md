@@ -59,6 +59,8 @@ The v1 version provide a platform for easy signup.
 * Bidding close when
   * Bid limit reached
   * Task owner decide to close it
+* Task publisher alocted the bidder
+* Bidder is notified for bidder acceptance
 * Processing the task
 * Each bidder uploaded their bidding result
 * The winner will be marked as completed and elector as the leading node
