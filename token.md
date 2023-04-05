@@ -37,3 +37,5 @@ Assume we have a space,want to purchase the IPFS and computing, we also want to 
 * Fast validate if the tx belongs to the w3id
 * submit onchain
 * all the information of the origin data proof will be stored \<where? track B?>
+
+### Aptos & Sui
