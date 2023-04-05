@@ -1,5 +1,23 @@
 # Token
 
+
+
+## &#x20;Advantages
+
+### Support access his data
+
+* need sign but no need to have balance
+
+### Payment from metamask
+
+
+
+## Integration with FilSwan
+
+* SDK level service&#x20;
+
+
+
 * Which chain we should support?
 * Which is the basechain?
 * if we make a payment for a job,  can we access it from another chain to check the result?
