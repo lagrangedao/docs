@@ -11,4 +11,7 @@
 * [Models](models.md)
 * [Spaces](spaces/README.md)
   * [Docker Spaces](spaces/docker-spaces.md)
+* [Billing](billing/README.md)
+  * [Payment](billing/payment.md)
+* [Token](token.md)
 * [API Reference](api-reference.md)
