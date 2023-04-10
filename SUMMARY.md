@@ -12,7 +12,7 @@
   * [Docker Spaces](spaces/docker-spaces.md)
 * [Decentralized Auction Marketplace](decentralized-auction-marketplace/README.md)
   * [Bidding Engine](decentralized-auction-marketplace/bidding-engine.md)
-  * [Bidding Task State Machine](decentralized-auction-marketplace/bidding-task-state-machine.md)
+  * [Bidding Task State Machine](computing/bidding-task-state-machine.md)
 * [Billing](billing/README.md)
   * [Payment](billing/payment.md)
 * [Token](token.md)
