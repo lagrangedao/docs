@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Datasets](datasets/README.md)
-  * [data-card](datasets/data-card.md)
+  * [Data Card](datasets/data-card.md)
 * [Computing](computing/README.md)
   * [Task](computing/task.md)
   * [Computing Provider](computing/computing-provider/README.md)
