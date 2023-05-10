@@ -9,7 +9,7 @@
     * [Build a Computing Provider](computing/computing-provider/build-a-computing-provider.md)
 * [Models](models.md)
 * [Spaces](spaces/README.md)
-  * [Docker Spaces](spaces/docker-spaces.md)
+  * [Docker Space](spaces/spaces.md)
 * [Decentralized Auction Marketplace](decentralized-auction-marketplace/README.md)
   * [Bidding Engine](decentralized-auction-marketplace/bidding-engine.md)
   * [Bidding Task State Machine](computing/bidding-task-state-machine.md)
