@@ -1,5 +1,6 @@
+![lagrange_logo_png-01](https://github.com/satoshi-real/Lagrange-Doc/assets/31982182/cbc9f229-7e19-4993-96b2-6ec85e54162b)
 ---
-description: Provides data sharing & analytic spaces for Decentralized science(DeSci)
+Lagrange DAO: GitHub of Web3
 ---
 
 # Introduction
