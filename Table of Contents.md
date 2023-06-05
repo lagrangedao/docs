@@ -9,16 +9,23 @@
     * [Environment Variables](computing/computing-provider/environment-variables.md)
   * [Task](computing/task.md)
 
+* [DECENTRALIZED AUCTION MARKETSPACE](decentralized-auction-marketplace/README.md)
+  * [Bidding Engine](decentralized-auction-marketplace/bidding-engine.md)
+  * [Bidding Task State Machine](computing/bidding-task-state-machine.md)
+
 * [DATASETS](datasets/README.md)
+  * [Datasets Overview]()
+  * [Adding New Datasets]()
+  * [Using Datasets]()
   * [Data Card](datasets/data-card.md)
+  * [Data NFT]()
+
 * [MODELS](models.md)
+  * [Models Overview]()
+
 * [SPACES](spaces/README.md)
   * [Spaces Overview](spaces/spaces-overview.md)
   * [Docker Space](spaces/spaces.md)
-
-* [Decentralized Auction Marketplace](decentralized-auction-marketplace/README.md)
-  * [Bidding Engine](decentralized-auction-marketplace/bidding-engine.md)
-  * [Bidding Task State Machine](computing/bidding-task-state-machine.md)
 
 * [OTHERS]()
   * [Billing](billing/README.md)
