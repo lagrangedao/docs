@@ -6,7 +6,6 @@
   * [Computing Provider](computing/computing-provider/README.md)
     * [Build a Computing Provider](computing/computing-provider/build-a-computing-provider.md)
     * [Provider Configuration](computing/computing-provider/provider-configuration.md)
-    * [Environment Variables](computing/computing-provider/environment-variables.md)
   * [Task](computing/task.md)
 
 * [DECENTRALIZED AUCTION MARKETSPACE](decentralized-auction-marketplace/README.md)
