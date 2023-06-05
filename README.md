@@ -1,8 +1,6 @@
 ![lagrange_logo_png-01](https://github.com/satoshi-real/Lagrange-Doc/assets/31982182/cbc9f229-7e19-4993-96b2-6ec85e54162b)
 ---
-Lagrange DAO: GitHub of Web3
----
-
+# Lagrange DAO: GitHub of Web3
 # Introduction
 
 Lagrange DAO is a decentralized autonomous organization (DAO) focused on data value realization and promoting decentralized science (DeSci). It aims to revolutionize the way scientific knowledge is created, shared, and rewarded by using the Web3 stack, which is a set of protocols and technologies that enable decentralized applications (dApps) and services on the blockchain.
