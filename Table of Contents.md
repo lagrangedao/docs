@@ -6,6 +6,7 @@
   * [Computing Provider](computing/computing-provider/README.md)
     * [Build a Computing Provider](computing/computing-provider/build-a-computing-provider.md)
     * [Provider Configuration](computing/computing-provider/provider-configuration.md)
+    * [Preparation Requirements]()
   * [Task](computing/task.md)
 
 * [DECENTRALIZED AUCTION MARKETSPACE](decentralized-auction-marketplace/README.md)
@@ -21,12 +22,15 @@
 
 * [MODELS](models.md)
   * [Models Overview]()
+  * [Uploading Models]()
+  * [Downloading Models]()
 
 * [SPACES](spaces/README.md)
   * [Spaces Overview](spaces/spaces-overview.md)
   * [Docker Space](spaces/spaces.md)
+  * [Run Spaces with Docker]()
 
-* [OTHERS]()
+* [OTHERS](others/README.md)
   * [Billing](billing/README.md)
     * [Payment](billing/payment.md)
   * [Security](security/README.md)
