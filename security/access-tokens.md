@@ -18,5 +18,18 @@ Here's a general flow of how it works:
 4. **Task Execution:** The computing provider then executes the task. If the task involves interacting with the external service (like chatGPT), it uses the access token from the environment variable to authenticate and gain necessary permissions.
 5. **Accessing the External Service:** The access token is used to authenticate the computing provider's requests to the external service and gain access to the resources or capabilities needed to complete the task.
 
-The usage of access tokens as environment variables can help ensure a secure, efficient, and flexible execution environment. This mechanism allows the computing providers to seamlessly integrate with various external services as required by their tasks, enhancing the capabilities and versatility of the LagrangeDAO network.
+The usage of access tokens as environment variables can help ensure a secure, efficient, and flexible execution environment. This mechanism allows the computing providers to seamlessly integrate with various external services as required by their tasks, enhancing the capabilities and versatility of the LagrangeDAO network.\
+\
+
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+In this diagram:
+
+1. The Computing Provider stores the External Access Token (obtained from a service like OpenAI's chatGPT) in their LagrangeDAO Profile under "setting/tokens", which is a part of the LagrangeDAO Hub.
+2. The Auction Engine within the LagrangeDAO Hub assigns a task that requires an External Access Token to the Computing Provider.
+3. The Computing Provider retrieves the External Access Token from its LagrangeDAO Profile.
+4. The Computing Provider loads the External Access Token into the runtime environment as an environment variable.
+5. The Computing Provider executes the task using the required resources. If the task involves the external service, it accesses the service using the External Access Token.
+6. The External Access Token is used to authenticate the Computing Provider's requests to the External Service and gain access to the resources or capabilities needed to complete the task.
 
