@@ -17,6 +17,7 @@
 * [Decentralized Auction Marketplace](decentralized-auction-marketplace/README.md)
   * [Bidding Engine](decentralized-auction-marketplace/bidding-engine.md)
   * [Bidding Task State Machine](computing/bidding-task-state-machine.md)
+  * [Reputation System](decentralized-auction-marketplace/reputation-system.md)
 * [Billing](billing/README.md)
   * [Payment](billing/payment.md)
 * [Security](security/README.md)
