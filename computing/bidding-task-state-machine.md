@@ -4,18 +4,21 @@ The bidding task state machine is a system designed to manage the bidding proces
 
 Bidders have the ability to set a limit on the number of bids they can process at the same time. This feature prevents them from accepting new bids once they reach their specified limit, enabling bidders to effectively manage their workload and participate in multiple tasks without overextending themselves.
 
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 ### States
 
 The Bidding State Machine has several predefined states:
 
-1. **Created (initial state):** The task is created but has not yet started accepting bids.
-2. **Accepting\_Bids:** The task is open for bidding, and bidders can submit their bids.
-3. **Processing:** The bidding has closed, and the task is being processed.
-4. **Submitted:** The task has been processed and is now awaiting approval.
-5. **Completed:** The task has been approved and marked as completed.
-6. **Failed:** The task has failed during processing, requiring manual intervention or resubmission.
-7. **Cancelled:** The task has been canceled, either due to a failed bidding process or other reasons.\
+1. **created**: This is the initial state when a task is first created. The task stays in this state until bidding is opened.
+2. **accepting\_bids**: In this state, the task is open for bidders to place their bids. The task remains in this state until bidding is closed, the bid is cancelled, or the bid fails.
+3. **bidding\_closed**: This state indicates that the bidding process for the task has ended. The task transitions to this state from the 'accepting\_bids' state. From here, the task can either be marked as 'submitted' or 'failed'.
+4. **submitted**: This state signifies that the task has been submitted successfully. The task moves to this state from the 'bidding\_closed' state. Once a task is in the 'submitted' state, it can then be completed.
+5. **completed**: This is the final state indicating that the task has been completed successfully. The task transitions to this state from the 'submitted' state.
+6. **failed**: This state indicates that the task has failed. The task can enter this state from the 'bidding\_closed' state. If a task fails, it can be reset to the 'created' state.
+7. **cancelled**: This state signifies that the bid for the task has been cancelled. The task can enter this state from the 'accepting\_bids' state. If a bid is cancelled or fails, the task can be reset to the 'created' state.
 
+The transitions between these states are managed by the state machine, which ensures that the task moves through its lifecycle in a controlled and predictable manner.
 
 * `open_bidding`: Transition from Created to Accepting\_Bids.
 * `close_bidding`: Transition from Accepting\_Bids to Processing.
