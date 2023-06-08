@@ -1,6 +1,17 @@
 # Bidding Engine
 
-The Bidding Engine in the Decentralized Bidding Marketplace serves as the core component that manages the task publishing process and the competitive bidding among providers. It ensures an efficient and transparent mechanism for matching tasks with the most suitable bidders. The data structure for each task in the platform includes:
+The auction engine is a critical component of the LagrangeDAO system. It manages the bidding process for tasks, ensuring that tasks are assigned to the most suitable computing providers. Here's a breakdown of its key functionalities:
+
+1. **Load Provider Pool**: The auction engine initially loads all active computing providers into a pool. These providers are potential bidders for tasks.
+2. **Place Bid**: When a task is open for bidding, the auction engine allows a computing provider (bidder) to place a bid on the task. The bid is only successful if the task is currently accepting bids, the bidder has not already placed a bid, and the bidder's collateral is sufficient.
+3. **Load Tasks from Redis**: The auction engine fetches all tasks from Redis that are in a state where they can accept bids. It also handles state transitions for tasks, such as moving a task from the 'accepting\_bids' state to the 'bidding\_closed' state when the bidding period ends.
+4. **Select Bidders**: The auction engine selects bidders based on certain criteria. For example, it might select the bidders with the highest collateral.
+5. **Run Bidding Process**: For each task that is open for bidding, the auction engine runs the bidding process. It allows the selected bidders to place their bids on the task.
+6. **List Tasks Available for Bidding**: The auction engine can provide a list of all tasks that are currently open for bidding.
+
+The auction engine is designed to be fair and efficient, ensuring that tasks are distributed evenly among computing providers and that the bidding process is competitive. It plays a crucial role in the operation of the LagrangeDAO network.
+
+&#x20;The data structure for each task in the platform includes:
 
 * uuid: A unique identifier for the task.
 * status: The current status of the task (e.g., open, closed, in progress, completed).
