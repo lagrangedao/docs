@@ -9,7 +9,6 @@
     * [Provider Configuration](computing/computing-provider/provider-configuration.md)
     * [Environment Variables](computing/computing-provider/environment-variables.md)
   * [Task](computing/task.md)
-  * [Page 1](computing/page-1.md)
 * [Models](models.md)
 * [Spaces](spaces/README.md)
   * [Spaces Overview](spaces/spaces-overview.md)
