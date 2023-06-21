@@ -30,28 +30,31 @@ sequenceDiagram;
 ```
 -->
 
-<figure><img src=".gitbook/assets/datanft_simple.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/datanft.svg" alt=""><figcaption></figcaption></figure>
 
 1. Users onboard their data onto Lagrange Platform
 2. Users click Generate dataNFT button on frontend
-3. Frontend will call smart contract function to create dataNFT
-   1. User will sign the transaction on MetaMask
-   2. DON will generate metadata and upload to IPFS
-   3. DON returns CID to contract
-   4. contract deploys new Data NFT contract
-4. Backend will scan network for the transaction
-5. Frontend displays information about the dataNFT
+3. Lagrange will generate metadata on IPFS and Multichain.Storage
+4. Frontend will call smart contract function to create dataNFT
+   1. Contract will call Chainlink Oracle
+   2. Oracle will call Lagrange API to perform a soft verification
+   3. contract deploys new Data NFT contract
+5. Backend will scan network for the transaction
+6. Frontend displays information about the dataNFT
+7. Users can also interact with the new contract to create licenses
 
 ## Smart Contracts 🛠
 
 The Lagrange Platform creates new Data NFTs via the DataNFTFactory contract.
 
-The Data NFTs are implemented using the ERC721 standard. Built on top of the OpenZeppelin contract library and implements Chainlink Functions (which is currently in beta testing).
+The Data NFTs are implemented using the ERC721 standard. Built on top of the OpenZeppelin contract library and implement the ChainlinkClient library. In the future we plan to migrate to Chainlink Functions, which is currently in BETA.
 
 ### Contract Addresses
 
-Below are the contract addresses of the DataNFTFactory for each network.
+Below are the contract addresses of the DataNFTFactory for each network. They are all using the same contract address!
 
 | Network | Address                                    |
 | ------- | ------------------------------------------ |
-| Sepolia | 0x70bc8584313e2A854A321e68F6854ec767D69131 |
+| Sepolia | 0xb7545455111a1cf7Cde72E8816bf21274D88aa81 |
+| Mumbai  | 0xb7545455111a1cf7Cde72E8816bf21274D88aa81 |
+| Polygon | 0xb7545455111a1cf7Cde72E8816bf21274D88aa81 |
