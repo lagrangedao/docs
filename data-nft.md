@@ -30,7 +30,7 @@ sequenceDiagram;
 ```
 -->
 
-<figure><img src=".gitbook/assets/datanft.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/datanft.drawio.png" alt=""><figcaption></figcaption></figure>
 
 1. Users onboard their data onto Lagrange Platform
 2. Users click Generate dataNFT button on frontend
