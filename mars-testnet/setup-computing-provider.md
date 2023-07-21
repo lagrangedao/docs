@@ -1,26 +1,19 @@
 ---
-description: This page is providing a way create a space for your code.
+description: This is a guide to Computing Provider
 ---
 
-# Docker Space
 
-Space -> Create new space
+# Welcome to Task 1: Computing Provider Setup!
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+From August 1st to September 4th, 2023, participants will embark on an immersive experience, deploying their Computing Providers and keeping them online during the campaign period. 
 
-Confirm Creation of the space
+The Computing Providers will play a vital role in running Spaces and supporting the Lagrange Mars Testnet ecosystem.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+As a participant in Task 1, you will have the opportunity to earn rewards through the 500,000 LAD token pool. All eligible Computing Providers will share the pool based on their GPU hours, reflecting their active contributions to the Testnet.
 
-You can upload code now
+Additionally, Task 1 offers exclusive early-bird benefits. Those who register early will receive instructions and documentation in advance, granting them a head start in setting up their Computing Providers. The early birds will also have access to exclusive support to overcome any challenges during the setup process.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+## How to setup a CP
 
-### Secret Management
 
-#### Buildtime
-
-In Docker Spaces, the secrets management is different for security reasons. Once you create a secret in the [Settings tab](https://huggingface.co/docs/hub/spaces-overview#managing-secrets), you can expose the secret by adding the following line in your Dockerfile.
-
-For example, if `SECRET_EXAMPLE` is the name of the secret you created in the Settings tab, you can read it at build time by mounting it to a file, then reading it with `$(cat /run/secrets/SECRET_EXAMPLE)`.
 
