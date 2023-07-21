@@ -2,7 +2,7 @@
 description: This is a guide to Space Builder
 ---
 
-# Welcome to Task 2: Space Builder Task
+# Welcome to Task 2: Space Builder Challenge
 
 This Task empowers participants to create and customize Spaces on the Lagrange Mars Testnet platform.
 
@@ -12,4 +12,4 @@ As a participant in Task 2, you will have the opportunity to share the Prize Poo
 
 Additionally, Task 2 provides a platform for participants to showcase their creativity and attract more users. Sharing your forked Space on Twitter and YouTube will not only garner attention but also earn you an incentive.
 
-## How to fork a Space from the Base Space
+## Tutorial
