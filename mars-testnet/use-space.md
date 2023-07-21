@@ -1,26 +1,15 @@
 ---
-description: This page is providing a way create a space for your code.
+description: This is a guide to Image Creator
 ---
 
-# Docker Space
+# Welcome to Task 3: Image Creator Showcase!
 
-Space -> Create new space
+In this captivating phase of the Lagrange Mars Testnet Campaign, we invite you to unleash your creativity and artistic flair as an Image Creator. Task 3 revolves around generating stunning images within a theme provided by Lagrange, adding a visual dimension to the Testnet experience.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+From August 1st to September 4th, 2023, participants will have the opportunity to generate stunning images following a series of weekly themes. Each week, a new theme will be unveiled, igniting your imagination and pushing the boundaries of what's possible.
 
-Confirm Creation of the space
+All eligible Image Creators will have the chance to split the 200,000 LAD pool. Furthermore, the top 10 most-liked images will receive additional bonuses, making your creative efforts even more rewarding.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+Stay connected with our official Twitter and Discord channels as we unveil the weekly themes every Monday. 
 
-You can upload code now
-
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-### Secret Management
-
-#### Buildtime
-
-In Docker Spaces, the secrets management is different for security reasons. Once you create a secret in the [Settings tab](https://huggingface.co/docs/hub/spaces-overview#managing-secrets), you can expose the secret by adding the following line in your Dockerfile.
-
-For example, if `SECRET_EXAMPLE` is the name of the secret you created in the Settings tab, you can read it at build time by mounting it to a file, then reading it with `$(cat /run/secrets/SECRET_EXAMPLE)`.
-
+## Tutorial
