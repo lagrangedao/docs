@@ -1,12 +1,12 @@
 ---
-description: This page is providing a way create a space for your code.
+description: The Intro of the Lagrange Mars Testnet Campaign
 ---
 
 # Lagrange Mars Testnet Campaign
 
 🚀 Welcome to the Lagrange Mars Testnet Campaign 2023! 🌌
 
-We are excited to invite you to be a part of the Lagrange Testnet, interacting with Lagrange firsthand and experience the groundbreaking features and functionalities Lagrange have developed for the future of Web3.
+We are excited to invite you to be a part of the Lagrange Testnet, interacting with Lagrange firsthand and experiencing the groundbreaking features and functionalities Lagrange has developed for the future of Web3.
 
 📅 Event Duration: August 7, 2023, 2:00 AM (UTC) — September 4, 2023, 2:00 AM (UTC)
 
