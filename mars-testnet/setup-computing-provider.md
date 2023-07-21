@@ -5,8 +5,6 @@ description: This is a guide to Computing Provider
 
 # Welcome to Task 1: Computing Provider Setup!
 
-From August 1st to September 4th, 2023, participants will embark on an immersive experience, deploying their Computing Providers and keeping them online during the campaign period. 
-
 The Computing Providers will play a vital role in running Spaces and supporting the Lagrange Mars Testnet ecosystem.
 
 As a participant in Task 1, you will have the opportunity to earn rewards through the 500,000 LAD token pool. All eligible Computing Providers will share the pool based on their GPU hours, reflecting their active contributions to the Testnet.
