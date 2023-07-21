@@ -1,10 +1,14 @@
 ---
-description: Provides data sharing & analytic spaces for Decentralized science(DeSci)
+description: >-
+  To provide developers with code hosting, deployment, a fast testing
+  environment, and demos all in one platform as a web3 developing tool.
 ---
 
 # Introduction
 
-Lagrange DAO is a decentralized autonomous organization (DAO) focused on data value realization and promoting decentralized science (DeSci). It aims to revolutionize the way scientific knowledge is created, shared, and rewarded by using the Web3 stack, which is a set of protocols and technologies that enable decentralized applications (dApps) and services on the blockchain.
+Web3 developers can’t make the code hosting, deployment, testing and running demos in one place. What’s more, they can’t take full advantage of decentralized storage and computing resources in the Web3 environment.&#x20;
+
+With the Lagrange DAO platform, developers can display applications efficiently with the support of decentralised storage and computing.Developers can also get massive traffic and revenue from in-app-purchasing on  the Lagrange DAO platform.
 
 Key features of Lagrange DAO include:
 
