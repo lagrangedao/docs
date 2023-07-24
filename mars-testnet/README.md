@@ -16,8 +16,11 @@ Be among the first to experience the Testnet and receive exclusive support for s
 ## ✨ Tasks and Rewards:
 
 Task 1: Set Up a Computing Provider and earn a share of the 500,000 LAD token pool.
+
 Task 2: Build a Space and stand a chance to share the Prize Pool of 300,000 LAD.
+
 Task 3: Be an Image Creator, showcase your creativity, and split the 200,000 LAD pool.
 
 
-🏆 Participate, complete tasks, and submit the form to secure your rewards. All $LAD awards will be delivered in the form of NFTs, and NFT holders can claim their $LAD after the TGE (Token Generated Event).
+🏆 Participate, complete tasks, and submit the form to secure your rewards. 
+All LAD awards will be delivered in the form of NFTs, and NFT holders can claim their LAD after the TGE (Token Generated Event).
