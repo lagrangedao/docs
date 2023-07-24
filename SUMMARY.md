@@ -1,6 +1,10 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Mars Testnet](mars-testnet/README.md)
+  * [Computing Provider Setup](mars-testnet/setup-computing-provider.md)
+  * [Building Space](mars-testnet/build-space.md)
+  * [Use Space](mars-testnet/use-space.md)
 * [Datasets](datasets/README.md)
   * [Data Card](datasets/data-card.md)
 * [Computing](computing/README.md)
