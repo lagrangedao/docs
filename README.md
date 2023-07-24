@@ -20,6 +20,4 @@ Key features of Lagrange DAO include:
 
 By leveraging blockchain technology and decentralized networks, Lagrange DAO is working towards creating a more accessible, transparent, and equitable ecosystem for scientific research and data sharing. This has the potential to drive innovation and improve the quality of scientific outputs, ultimately benefiting the broader scientific community and society as a whole.
 
-
-
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td><a href="datasets/">Datasets</a></td><td></td></tr><tr><td></td><td><a href="models.md">Models</a></td><td></td></tr><tr><td></td><td><a href="spaces/">Spaces</a></td><td></td></tr><tr><td></td><td><a href="computing/">Computing</a></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td><a href="datasets/">Datasets</a></td><td></td></tr><tr><td></td><td><a href="models.md">Models</a></td><td></td></tr><tr><td></td><td><a href="spaces/">Spaces</a></td><td></td></tr><tr><td></td><td><a href="computing/">Computing</a></td><td></td></tr><tr><td></td><td><a href="mars-testnet/">Mars Testnet</a></td><td></td></tr></tbody></table>
