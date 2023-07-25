@@ -12,7 +12,7 @@ The Lagrange token has 3 stages:
 
 #### Lagrange Testnet Token
 
-Lagrange Testnet Token (LAG) is used on langrage testnet. The first time it is deployed is during the Mars Testnet.
+Lagrange Testnet Token (LAG) is used on langrage testnet. The first time it is deployed is during the Mars Testnet. LAG testnet token does not has value and can get it from faucet.
 
 #### Lagrange Mainet Token
 
@@ -20,5 +20,5 @@ Lagrange mainnet Token (LAG) is used on the langrage mainnet.  You can buy it on
 
 #### Swan Mainnet Token
 
-Swan Mainet Token is used by swan mainnet, when swan mainnet lauch, user can perform a one-time swap as 1:1 with Lagrange mainnet Token
+Swan Mainet Token is used by swan mainnet, when swan mainnet lauch, user can perform a one-time swap at 1:1 with Lagrange mainnet Token
 
