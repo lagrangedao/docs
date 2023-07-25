@@ -19,7 +19,7 @@
   * [Spaces Overview](spaces/spaces-overview.md)
   * [Docker Space](spaces/spaces.md)
 * [Decentralized Auction Marketplace](decentralized-auction-marketplace/README.md)
-  * [Bidding Engine](decentralized-auction-marketplace/bidding-engine.md)
+  * [Auction Engine](decentralized-auction-marketplace/bidding-engine.md)
   * [Bidding Task State Machine](computing/bidding-task-state-machine.md)
   * [Reputation System](decentralized-auction-marketplace/reputation-system.md)
 * [Billing](billing/README.md)
