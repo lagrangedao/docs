@@ -16,7 +16,7 @@ Lagrange Testnet Token (LAG) is used on langrage testnet. The first time it is d
 
 #### Lagrange Mainet Token
 
-Lagrange mainnet Token (LAG) is used on the langrage mainnet.
+Lagrange mainnet Token (LAG) is used on the language mainnet. The lagrange Mainnet is a token on different network,e.g. Polygon, BNB,OP
 
 #### Swan Mainnet Token
 
