@@ -16,7 +16,7 @@ Lagrange Testnet Token (LAG) is used on langrage testnet. The first time it is d
 
 #### Lagrange Mainet Token
 
-Lagrange mainnet Token (LAG) is used on the langrage mainnet.  You can buy it on DEX
+Lagrange mainnet Token (LAG) is used on the langrage mainnet.
 
 #### Swan Mainnet Token
 
