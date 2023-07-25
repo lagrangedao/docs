@@ -1,0 +1,13 @@
+---
+description: Question & Answers
+---
+
+# FAQ
+
+Q: When is the competition?
+
+Q: What is the LAG token?
+
+Q: What should the user do?
+
+Q: which network it we are using in the competition?
