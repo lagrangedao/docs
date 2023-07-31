@@ -14,9 +14,9 @@ The Lagrange token has 3 stages:
 
 Lagrange Testnet Token (LAG) is used on langrage testnet. The first time it is deployed is during the Mars Testnet. LAG testnet token does not has value and can get it from the faucet.
 
-#### Lagrange Mainnet Token
+#### Swan Testnet Token
 
-Lagrange mainnet Token (LAG) is used on the Lagrange mainnet. The lagrange Mainnet token is a token on different networks,e.g. Polygon, BNB,OP. The total supply is 2,000,000.
+Swan Testnet Token (Swan) is used on Swan Testnet. The Swan Testnet  is designed to Launch in Q4 2023.
 
 #### Swan Mainnet Token
 
