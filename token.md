@@ -7,7 +7,7 @@ description: Lagrange Token is the utility token for purchasing computing resour
 The Lagrange token has 3 stages:
 
 1. [Lagrange Testnet Token](token.md#lagrange-testnet-token)
-2. [Lagrange Mainet Token](token.md#lagrange-mainet-token)
+2. [#swan-testnet-token](token.md#swan-testnet-token "mention")
 3. [Swan Mainnet Token](token.md#swan-mainet-token)
 
 #### Lagrange Testnet Token
