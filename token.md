@@ -12,15 +12,21 @@ description: Lagrange Token is the utility token for purchasing computing resour
 
 #### Lagrange Testnet Token
 
+Testnet: SepoliaETH
+
 Lagrange Testnet Token (LAG) is used on langrage testnet. The first time it is deployed is during the Mars Testnet. LAG testnet token does not has value and can get it from the faucet.
 
 #### Swan Testnet Token
+
+Testnet: SepoliaETH
 
 Swan Testnet Token (Swan) is used on Swan Testnet. The Swan Testnet  is designed to Launch in Q4 2023.
 
 #### Swan Mainnet Token
 
-Swan is a L2 blockchain on Ethereum with Rollup technology.
+Bsse Chain: ETH
+
+Swan is a L3 blockchain on Ethereum with Rollup technology.
 
 Swan Mainet Token is used by swan mainnet, when swan mainnet launches, user can perform a one-time swap at 1:1 with Lagrange mainnet Token. The total supply is 1,000,000,000.
 
