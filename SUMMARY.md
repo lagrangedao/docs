@@ -1,12 +1,6 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Mars Testnet](mars-testnet/README.md)
-  * [Computing Provider Setup](mars-testnet/setup-computing-provider.md)
-  * [Building Space](mars-testnet/build-space.md)
-  * [Use Space](mars-testnet/use-space.md)
-  * [Case Study](mars-testnet/case-study.md)
-  * [FAQ](mars-testnet/faq.md)
 * [Datasets](datasets/README.md)
   * [Data Card](datasets/data-card.md)
 * [Computing](computing/README.md)
@@ -28,4 +22,10 @@
 * [Security](security/README.md)
   * [Access Tokens](security/access-tokens.md)
 * [Token](token.md)
+* [Mars Testnet](mars-testnet/README.md)
+  * [Computing Provider Setup](mars-testnet/setup-computing-provider.md)
+  * [Building Space](mars-testnet/build-space.md)
+  * [Use Space](mars-testnet/use-space.md)
+  * [Case Study](mars-testnet/case-study.md)
+  * [FAQ](mars-testnet/faq.md)
 * [API Reference](api-reference.md)
