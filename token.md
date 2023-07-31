@@ -4,7 +4,7 @@ description: Lagrange Token is the utility token for purchasing computing resour
 
 # Token
 
-[#swan-testnet-token](token.md#swan-testnet-token "mention")[#swan-testnet-token](token.md#swan-testnet-token "mention")The Lagrange token has 3 stages:
+The Lagrange token has 3 stages:
 
 1. [Lagrange Testnet Token](token.md#lagrange-testnet-token)
 2. [Swan Testnet Token](token.md#swan-testnet-token)
