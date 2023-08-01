@@ -65,7 +65,7 @@ After installing Kubernetes, you can verify its installation by running the foll
 ```bash
 kubectl get po -A
 ```
-The installation is normal as seen by the following image:
+Once you have installed it successfully, you will see the screen below:
 ![image](https://github.com/FogMeta/docs/assets/102578560/c5771aa1-2806-430b-b777-c281b4516b6f)
 
 **Note:**  Remove the node's taint mark.
@@ -85,7 +85,7 @@ After installing NVIDIA-Plugin, you can verify its installation by running the f
 ```bash
 kubectl get po -n kube-system
 ```
-The installation is normal as seen by the following image:
+Once you have installed it successfully, you will see the screen below::
 ![image](https://github.com/FogMeta/docs/assets/102578560/96d49ead-8f33-4bc1-888e-697d680e2519)
 
 ### Install Ingress-nginx Controller
@@ -99,7 +99,7 @@ You can verify its installation by running the following command:
 ```bash
 kubectl get po -n ingress-nginx
 ```
-The installation is normal as seen by the following image:
+Once you have installed it successfully, you will see the screen below::
 ![image](https://github.com/FogMeta/docs/assets/102578560/84ed2f2b-3500-4cc7-afea-5e47a6feaa6f)
 
 ```bash
