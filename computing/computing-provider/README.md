@@ -1,12 +1,25 @@
-# Computing Provider
+# Install Computing Provider
 
-A computing provider is an individual or organization that participates in the decentralized computing network by offering computational resources such as processing power (CPU and GPU), memory, storage, and bandwidth. Their primary role is to execute tasks posted by users on the LagrangeDAO platform.
+## How to install Computing Provider
 
-To become a computing provider in LagrangeDAO, one needs to:
+#### **1.**[**Requirements**](requirements.md)
 
-1. Bid for tasks: Computing providers compete with others by bidding on tasks through a smart contract. During the bidding process, they may be required to deposit collateral as a guarantee of their commitment to completing the assigned task.
-2. Perform the computing: Once a computing provider wins the bid, they are responsible for executing the task using their resources. This may involve processing data, running simulations, or carrying out complex calculations.
-3. Upload the results: After completing the task, the computing provider submits the results to a storage provider within the LagrangeDAO network. These results are stored for future validation by task validators.
-4. Receive rewards: Upon successful validation of the results, the computing provider is rewarded by the task publisher. This reward acts as an incentive for providers to contribute resources to the network and maintain high-quality services.
+* 1.1 Container Runtime Environment
+  * Option 1: Install Docker and cri-dockerd
+  * Option 2: Install Containerd
+* 1.2 Setup Docker Registry Server
+* 1.3 Install Kubernetes
+* 1.4 Install Network Plugin: Calico
+* 1.5 Install NVIDIA-Plugin
+* 1.6 Install Ingress-nginx Controller
+* 1.7 Configure Host nginx
+* 1.8 Install Hardware Resource Collector
+* 1.9 Install redis Service Using Docker
 
-By participating in the LagrangeDAO network, computing providers play a vital role in creating a decentralized and efficient ecosystem that fosters innovation, reduces reliance on centralized systems, and offers scalable computational resources to users.
+#### [**2. Clone the Code**](clone-the-code.md)
+
+#### [**3. Compile the Code**](compile-the-code.md)
+
+#### [**4. Edit Configuration Files**](edit-configuration-files.md)
+
+#### [**5. Run Computing Provider**](run-computing-provider.md)
