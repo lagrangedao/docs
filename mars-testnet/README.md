@@ -26,15 +26,15 @@ Partners from the realms of AI, gaming, and the metaverse are welcome to join us
 
 ## Goals
 
-- 100 GPUs, 1Million Images
-- Validate the large-scale GPU computing on Lagrange Network
-- Adaption of models on image generation, e.g. Stable diffusion, Lora, Dall-E
-- Developer experience and feedback on space building and datasets
-- Multichain Payment and debug on the payment channel
-- Validate Lagrange Network’s new GPU marketplace
-- Co-working with partners in AI, Gaming, and other metaverse projects
-- Community participation in AIGC includes images and scene
-- Attract AI and ML enthusiasts/ experts to the Lagrange Network community.
+- Harness the power of 100 GPUs to generate 1 million images.
+- Validate large-scale GPU computing on the Lagrange Network.
+- Explore the adaptation of models such as Stable diffusion, Lora, and Dall-E for image generation.
+- Solicit developer feedback on space building and datasets.
+- Multichain Payment and debug on the payment channel.
+- Validate Lagrange Network's new GPU marketplace.
+- Collaborate with partners in AI, gaming, and the metaverse.
+- Engage our community in the AIGC including images and scenes.
+- Attract AI and ML enthusiasts/ experts to the Lagrange Network community
 
 ## Tasks and Rewards:
 
