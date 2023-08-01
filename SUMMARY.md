@@ -5,7 +5,7 @@
   * [Data Card](datasets/data-card.md)
 * [Computing](computing/README.md)
   * [Install Computing Provider](computing/computing-provider/README.md)
-    * [Requirements](computing/computing-provider/requirements.md)
+    * [Preparation Requirements](computing/computing-provider/preparation-requirements.md)
     * [Clone the Code](computing/computing-provider/clone-the-code.md)
     * [Compile the Code](computing/computing-provider/compile-the-code.md)
     * [Edit Configuration Files](computing/computing-provider/edit-configuration-files.md)

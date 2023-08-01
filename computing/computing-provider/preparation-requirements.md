@@ -1,4 +1,18 @@
-# Requirements
+# Preparation Requirements
+
+### Table of Content
+
+* [Container Runtime Environment](preparation-requirements.md#1.-container-runtime-environment)
+  * Option 1: Install Docker and cri-dockerd
+  * Option 2: Install Containerd
+* [Setup Docker Registry Server](preparation-requirements.md#2.-setup-docker-registry-server)
+* [Install Kubernetes](preparation-requirements.md#3.-install-kubernetes)
+* [Install Network Plugin: Calico](preparation-requirements.md#4.-install-network-plugin-calico)
+* [Install NVIDIA-Plugin](preparation-requirements.md#install-nvidia-plugin)
+* [Install Ingress-nginx Controller](preparation-requirements.md#6.-install-ingress-nginx-controller)
+* [Configure Host nginx](preparation-requirements.md#7.-configure-host-nginx)
+* [Install Hardware Resource Collector](preparation-requirements.md#8.-install-hardware-resource-collector)
+* [Install redis Service Using Docker](preparation-requirements.md#9.-install-redis-service-using-docker)
 
 ### 1. Container Runtime Environment
 
@@ -96,7 +110,7 @@ kubectl taint node ${nodeName}  node-role.kubernetes.io/control-plane:NoSchedule
 
 Calico is a popular Kubernetes networking solution. To install Calico, refer to this [documentation](https://docs.tigera.io/calico/3.25/getting-started/kubernetes/quickstart).
 
-#### Install NVIDIA-Plugin
+### 5. Install NVIDIA-Plugin
 
 If your cluster requires NVIDIA GPU support, install the NVIDIA-Plugin by following these steps:
 
