@@ -34,7 +34,7 @@ Partners from the realms of AI, gaming, and the metaverse are welcome to join us
 - Validate Lagrange Network's new GPU marketplace.
 - Collaborate with partners in AI, gaming, and the metaverse.
 - Engage our community in the AIGC including images and scenes.
-- Attract AI and ML enthusiasts/ experts to the Lagrange Network community
+- Attract AI and ML enthusiasts/ experts to the Lagrange Network community.
 
 ## Tasks and Rewards:
 
