@@ -54,7 +54,7 @@ sudo docker run --detach \
   registry:2
 ```
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 * The following configuration needs to be set on each node in the Kubernetes cluster:
 
@@ -79,7 +79,7 @@ systemctl restart docker
 docker system info
 ```
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 3. Install Kubernetes
 
