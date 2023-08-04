@@ -19,7 +19,9 @@ description: This is a guide to Computing Provider
     * T4, RTX 4090, 3090Ti, 3090, 3080Ti, 3080, 3060Ti, 2060, 2070, 2080, 2080Ti, A100, H100
 * 2\. Check the [Dashboard](https://provider.lagrangedao.org/provider-status) to confirm that your Computing Provider is running during the campaign period.
 * 3\. Provide feedback on the process, documentation, bugs, and improvement ideas in our [Discord Channel](https://discord.com/channels/867879887871672331/1131887246165934120).
-* 4\. Submit the [form](https://docs.google.com/forms/d/e/1FAIpQLSf0JRi18xsp\_YCoQKPuE0azYLDDNwAXBMNIeqwXFMgqVljU1Q/viewform?usp=sf\_link) here with the required details.
+*   4\. Submit the [form](https://docs.google.com/forms/d/e/1FAIpQLSf0JRi18xsp\_YCoQKPuE0azYLDDNwAXBMNIeqwXFMgqVljU1Q/viewform?usp=sf\_link) here with the required details._Note:_&#x20;
+
+    &#x20;   _The form will be open until 00:00, August 14 (EST)_
 
 #### **How to be eligible:**
 
@@ -37,7 +39,7 @@ description: This is a guide to Computing Provider
 
 **Coming soon!**
 
-The tutorial and documentation for the Lagrange Mars Testnet will be officially released on **August 14**. However, if you don't want to wait until then, you can apply for the [**Early Bird Registration**](https://docs.google.com/forms/d/e/1FAIpQLSdzTM1dgdrTBfNCXM-TZYMwLrX5cbOeO6tEjpIqTSwe7zTWoQ/viewform?usp=sf\_link) here to receive it in advance.&#x20;
+The Tutorial and documentation for the Lagrange Mars Testnet will be officially released on **August 14**. However, if you don't want to wait until then, you can apply for the [**Early Bird Registration**](https://docs.google.com/forms/d/e/1FAIpQLSdzTM1dgdrTBfNCXM-TZYMwLrX5cbOeO6tEjpIqTSwe7zTWoQ/viewform?usp=sf\_link) here to receive it in advance.&#x20;
 
 * Early bird registration closes: **23:59, August 8 (EST)**
 * Early birds get the tutorial on **August 10**, 4 days before the campaign starts

@@ -2,41 +2,49 @@
 description: This is a guide to Space Builder
 ---
 
-# Welcome to Task 2: Space Builder Challenge
+# Building Space
 
 **Event Period：** 14th August, 00:00 (EST) - 10th September, 23:59 (EST)
 
-**How to Participate:**
+## **Rules**
 
-- 1\.Follow the instructions to fork a space from the provided Base Space and successfully run it.
+#### **How to participate:**
 
-- 2\.Update your forked Space following the documentation.
+* 1.Fork a space from the provided Base Space and successfully run it.
+* 2.Update your forked Space following the [Tutorail](build-space.md#tutorial).
+* 3.Share your Space on Twitter
+  * Content must be in English.
+  * Content must be shared on Twitter, and must tag [@lagrangedao](https://twitter.com/lagrangedao) and [@0xfilswan](https://twitter.com/0xfilswan)
+*   4.Submit the [form](https://forms.gle/YyzotPhHqx4DmCmy9) here with the required details, including
 
-- 3\.Share your Space on Twitter
+    * Link to your Space
+    * Link to the tweet you shared
 
-  - Content must be in English.
-  - Content must be shared on Twitter, and must tag [@lagrangedao](https://twitter.com/lagrangedao) and [@0xfilswan](https://twitter.com/0xfilswan) 
+    _Note: The form will be open until 00:00, August 14 (EST)_
 
-- 4\.Submit the [form](https://forms.gle/YyzotPhHqx4DmCmy9) here with the required details, including 
-  - Link to your Space
-  - Link to the tweet you shared
+#### **How to be eligible:**
 
-**How to be eligible:**
+* Eligible Space Builders shall build at least one Space that generates at least one image and remains operational for the duration of the event.
+* The [form](https://forms.gle/YyzotPhHqx4DmCmy9) must be submitted upon task completion.&#x20;
 
-- Eligible Space Builders shall build at least one Space that generates at least one image and remains operational for the duration of the event.
-- The [form](https://forms.gle/YyzotPhHqx4DmCmy9) must be submitted upon task completion
+#### **Rewards:**
 
-**Rewards:**
+* All eligible Space Builders have a chance to split the prize pool of **300,000 LAG** tokens based on the popularity of the space you build. The more popular your space, the greater your reward!
+* Prizes:
+  * Top 1: 20,000 LAG
+  * Top 2-5: 10,000 LAG each
+  * Top 6-10: 4,000 LAG each
+  * Top 11-50: 2,000 LAG each
+  * All other participants (rank 51 and beyond) will share the remaining 140,000 LAG pool.
 
-- All eligible Space Builders have a chance to split the prize pool of **300,000 LAG** tokens based on the popularity of the space you build. The more popular your space, the greater your reward! 
-- Prizes:
-  - Top 1: 20,000 LAG
-  - Top 2-5: 10,000 LAG each
-  - Top 6-10: 4,000 LAG each
-  - Top 11-50: 2,000 LAG each
-  - All other participants (rank 51 and beyond) will share the remaining 140,000 LAG pool.
-
-*Note: The ranking will be based on the popularity of the space they build.*
+_Note: The ranking will be based on the popularity of the space they build._
 
 ## Tutorial
-Comming soon!
+
+**Comming soon!**
+
+The Tutorial and documentation for the Lagrange Mars Testnet will be officially released on **August 14**. However, if you don't want to wait until then, you can apply for the [**Early Bird Registration**](https://docs.google.com/forms/d/e/1FAIpQLScvmaP3T\_Q\_rmZcT7vBQYhNy6MXdN2e4a8IzOcgPhBn3oOd6g/viewform?usp=sf\_link) here to receive it in advance.&#x20;
+
+* Early bird registration closes: **23:59, August 8 (EST)**
+* Early birds get the tutorial on **August 10**, 4 days before the campaign starts
+* The earlier you get the tutorial, the sooner you can participate in tasks , increasing your chances of winning more rewards
