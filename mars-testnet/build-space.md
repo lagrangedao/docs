@@ -10,7 +10,7 @@ description: This is a guide to Space Builder
 
 #### **How to participate:**
 
-1.Fork a space from the provided **Base Space** and successfully run it.
+1.Fork a space from the provided [Stable Diffusion Base Space](https://lagrangedao.org/spaces/0x6091b2f5678952cAfbf02755D78973EBff302e11/Stable-Diffusion-Base-LoRA/card) and successfully run it.
 
 2.Update your forked Space following the [Tutorail](build-space.md#tutorial).
 

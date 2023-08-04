@@ -48,7 +48,7 @@ Fork and run a Space from the provided Base Space, and share it on Twitter to ha
 
 3. [**Image Creator Task**](use-space.md)**:**
 
-Create at least 3 images from any Space in Lagrange following weekly themes, upload them to [Multichain.Storage](https://www.multichain.storage/) (MCS), and share them on Twitter to split the **200,000 LAG** token prize pool based on the popularity of the images, with top creators receiving higher rewards.
+Create at least 3 images from any Space in Lagrange following weekly themes, upload them to Multichain.Storage, and share them on Twitter to split the **200,000 LAG** token prize pool based on the popularity of the images, with top creators receiving higher rewards.
 
 _Note: All LAG awards will be delivered in the form of NFTs, and NFT holders can claim their LAG after the TGE (Token Generated Event)._
 

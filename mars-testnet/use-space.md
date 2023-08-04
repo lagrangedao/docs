@@ -13,7 +13,7 @@ description: This is a guide to Image Creator
 1.Choose a [Stable Diffusion Space](https://lagrangedao.org/spaces) here and attempt to create some images following a theme provided by Lagrange: Mars Landscape, Mars Creatures, Mars Vehicles, Mars Buildings and live scenes.
 
 * Each theme represents a piece of the puzzle that, when combined, will form a breathtaking scene on Planet Mars.
-* Feel free to explore the [Base Space](https://lagrangedao.org/spaces/0x6091b2f5678952cAfbf02755D78973EBff302e11/Stable-Diffusion-Base-LoRA) and other [Stable Diffusion Spaces ](https://lagrangedao.org/spaces)updated by fellow [Space Builders](build-space.md).&#x20;
+* Feel free to explore the [Stable Diffusion Base Space](https://lagrangedao.org/spaces/0x6091b2f5678952cAfbf02755D78973EBff302e11/Stable-Diffusion-Base-LoRA/card) and other [Stable Diffusion Spaces ](https://lagrangedao.org/spaces)updated by Space Builders.&#x20;
 
 2.Upload your 3 best images to [Multichain.Storage](https://www.multichain.storage/) and share these images on Twitter.
 
