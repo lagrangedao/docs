@@ -38,27 +38,25 @@ Partners from the realms of AI, gaming, and the metaverse are welcome to join us
 
 ## Tasks and Rewards:
 
-1. **Computing Provider Setup Task:**
+1. [**Computing Provider Setup Task**](setup-computing-provider.md)**:**
 
 Set up a Computing Provider with the specified requirements and keep it online during the Campaign to split **500,000 LAG** tokens based on GPU hours, with the Top 1 Computing Provider winning the Golden CP privilege.
 
-2. **Space Builder Task:**
+2. [**Space Builder Task**](build-space.md)**:**
 
 Fork and run a Space from the provided Base Space, and share it on Twitter to have a chance to split the **300,000 LAG** token prize pool based on the popularity of the created space.
 
-3. **Image Creator Task:**
+3. [**Image Creator Task**](use-space.md)**:**
 
-Create at least 3 images from any Space in Lagrange following weekly themes, upload them to MCS, and share them on Twitter to split the **200,000 LAG** token prize pool based on the popularity of the images, with top creators receiving higher rewards.
+Create at least 3 images from any Space in Lagrange following weekly themes, upload them to [Multichain.Storage](https://www.multichain.storage/) (MCS), and share them on Twitter to split the **200,000 LAG** token prize pool based on the popularity of the images, with top creators receiving higher rewards.
 
 _Note: All LAG awards will be delivered in the form of NFTs, and NFT holders can claim their LAG after the TGE (Token Generated Event)._
-
-
 
 ## Workshop
 
 Throughout the campaign period, we have an exciting series of workshops lined up, where we'll delve into the use cases of Computing Provider setup, Space building, and Space using on the Lagrange platform.&#x20;
 
-Join us on our Discord channel and keep an eye out for more updates and detailed information about these workshops.&#x20;
+_Join us on our_ [_Discord channel_](https://discord.gg/GRxpvefPmk) _and keep an eye out for more updates and detailed information about these workshops._&#x20;
 
 ## Key Dates to Remember
 
