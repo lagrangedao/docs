@@ -28,6 +28,7 @@
   * [Access Tokens](security/access-tokens.md)
 * [Token](token.md)
 * [Mars Testnet](mars-testnet/README.md)
+  * [Before You Get Started](mars-testnet/before-you-get-started.md)
   * [Computing Provider Setup](mars-testnet/setup-computing-provider.md)
   * [Building Space](mars-testnet/build-space.md)
   * [Using Space](mars-testnet/use-space.md)
