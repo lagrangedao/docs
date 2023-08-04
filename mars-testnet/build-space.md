@@ -10,7 +10,7 @@ description: This is a guide to Space Builder
 
 #### **How to participate:**
 
-* 1.Fork a space from the provided Base Space and successfully run it.
+* 1.Fork a space from the provided **Base Space** and successfully run it.
 * 2.Update your forked Space following the [Tutorail](build-space.md#tutorial).
 * 3.Share your Space on Twitter
   * Content must be in English.

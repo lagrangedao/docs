@@ -4,28 +4,27 @@ description: This is a guide to Image Creator
 
 # Using Space
 
-🗓️ **Event Period：** 14th August, 00:00 (EST) - 10th September, 23:59 (EST)
+🗓️ **Event Period:** 14th August, 00:00 (EST) - 10th September, 23:59 (EST)
 
 ## Rules&#x20;
 
-**How to Participate:**
+#### **How to Participate:**
 
-*   1.Choose a [space](https://lagrangedao.org/spaces) and attempt to create some images following a theme provided by Lagrange
+1.Choose a [Stable Diffusion Space](https://lagrangedao.org/spaces) here and attempt to create some images following a theme provided by Lagrange: Mars Landscape, Mars Creatures, Mars Vehicles, Mars Buildings and live scenes.
 
-    * Mars Landscape
-    * Mars Creatures
-    * Mars Vehicles, Spaceship
-    * Mars Buildings and live scene
+* Each theme represents a piece of the puzzle that, when combined, will form a breathtaking scene on Planet Mars.
+* Feel free to explore the [Base Space](https://lagrangedao.org/spaces/0x6091b2f5678952cAfbf02755D78973EBff302e11/Stable-Diffusion-Base-LoRA) and other [Stable Diffusion Spaces ](https://lagrangedao.org/spaces)updated by fellow [Space Builders](build-space.md).&#x20;
 
-    Each theme represents a piece of the puzzle that, when combined, will form a breathtaking scene on Planet Mars.
-* 2.Upload your 3 best images to [Multichain.Storage](https://www.multichain.storage/) and share them on Twitter.
-* 3.Share the links of your images and tweets in our [Discord](https://discord.com/channels/867879887871672331/1131887555701383278) and Telegram channels for more engagement.
-*   4\. Submit the [form](https://forms.gle/YyzotPhHqx4DmCmy9) here with the required details, including
+2.Upload your 3 best images to [Multichain.Storage](https://www.multichain.storage/) and share them on Twitter.
 
-    * Link to your image on MCS
-    * Link to the tweet you shared
+3.Share the links of your images and tweets in our [Discord](https://discord.com/channels/867879887871672331/1131887555701383278) and Telegram channels for more engagement.
 
-    _Note: The form will be open until 00:00, August 14 (EST)_
+4\. Submit the [form](https://forms.gle/YyzotPhHqx4DmCmy9) here with the required details, including
+
+* Link to your image on MCS
+* Link to the tweet you shared
+
+_Note: The form will be open until 00:00, August 14 (EST)_
 
 **How to be eligible:**
 
