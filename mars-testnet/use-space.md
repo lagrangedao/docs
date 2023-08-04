@@ -4,14 +4,21 @@ description: This is a guide to Image Creator
 
 # Using Space
 
-**Event Period：** 14th August, 00:00 (EST) - 10th September, 23:59 (EST)
+🗓️ **Event Period：** 14th August, 00:00 (EST) - 10th September, 23:59 (EST)
+
+## Rules&#x20;
 
 **How to Participate:**
 
-* 1.Choose a [space](https://lagrangedao.org/spaces) and attempt to create some images following a theme provided by Lagrange
-  * Each week, a new exciting theme will be unveiled!
-  * Stay tuned for the theme announcements every Monday on our official [Twitter](https://twitter.com/lagrangedao) and [Discord channels](https://discord.com/channels/867879887871672331/1131887555701383278).
-* 2.Upload your 3 best images to [MCS](https://www.multichain.storage) and share them on Twitter.
+*   1.Choose a [space](https://lagrangedao.org/spaces) and attempt to create some images following a theme provided by Lagrange
+
+    * Mars Landscape
+    * Mars Creatures
+    * Mars Vehicles, Spaceship
+    * Mars Buildings and live scene
+
+    Each theme represents a piece of the puzzle that, when combined, will form a breathtaking scene on Planet Mars.
+* 2.Upload your 3 best images to [Multichain.Storage](https://www.multichain.storage/) and share them on Twitter.
 * 3.Share the links of your images and tweets in our [Discord](https://discord.com/channels/867879887871672331/1131887555701383278) and Telegram channels for more engagement.
 *   4\. Submit the [form](https://forms.gle/YyzotPhHqx4DmCmy9) here with the required details, including
 

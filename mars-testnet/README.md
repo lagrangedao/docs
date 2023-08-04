@@ -8,7 +8,7 @@ Welcome to the Lagrange Mars Testnet Campaign 2023!
 
 We are excited to invite you to be a part of the Lagrange Testnet, interacting with Lagrange firsthand and experiencing the groundbreaking features and functionalities Lagrange has developed for the future of Web3.
 
-Event Duration: 14th August, 00:00 (EST) - 10th September, 23:59 (EST)
+🗓️ Campaign Duration: 14th August, 00:00 (EST) - 10th September, 23:59 (EST)
 
 ## Mission
 
@@ -66,7 +66,5 @@ _Join us on our_ [_Discord channel_](https://discord.gg/GRxpvefPmk) _and keep an
 * Mars Testnet Campaign: August 14th - September 10th
 * Workshop series: August 14th - September 10th
 * Participants selected and announced: September 20th
-
-
 
 Get ready to level up your skills and be part of the Lagrange Mars Testnet journey! \
