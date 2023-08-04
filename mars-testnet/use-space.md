@@ -15,20 +15,18 @@ description: This is a guide to Image Creator
 * Each theme represents a piece of the puzzle that, when combined, will form a breathtaking scene on Planet Mars.
 * Feel free to explore the [Base Space](https://lagrangedao.org/spaces/0x6091b2f5678952cAfbf02755D78973EBff302e11/Stable-Diffusion-Base-LoRA) and other [Stable Diffusion Spaces ](https://lagrangedao.org/spaces)updated by fellow [Space Builders](build-space.md).&#x20;
 
-2.Upload your 3 best images to [Multichain.Storage](https://www.multichain.storage/) and share them on Twitter.
+2.Upload your 3 best images to [Multichain.Storage](https://www.multichain.storage/) and share these images on Twitter.
 
-3.Share the links of your images and tweets in our [Discord](https://discord.com/channels/867879887871672331/1131887555701383278) and Telegram channels for more engagement.
+3\. Submit the [form](https://forms.gle/YyzotPhHqx4DmCmy9) here with the required details, including
 
-4\. Submit the [form](https://forms.gle/YyzotPhHqx4DmCmy9) here with the required details, including
-
-* Link to your image on MCS
+* Link to your image on Multichain.Storage
 * Link to the tweet you shared
 
 _Note: The form will be open until 00:00, August 14 (EST)_
 
-**How to be eligible:**
+**How to Be Eligible:**
 
-* Eligible Image Creator shall create at least 3 images from any Spcae in Lagrange, and upload them to MCS.
+* Eligible Image Creator shall create at least 3 images from any Stable Diffusion Spcae in Lagrange.
 * The [form](https://forms.gle/YyzotPhHqx4DmCmy9) must be submitted upon task completion
 
 **Rewards:**

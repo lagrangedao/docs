@@ -10,19 +10,23 @@ description: This is a guide to Space Builder
 
 #### **How to participate:**
 
-* 1.Fork a space from the provided **Base Space** and successfully run it.
-* 2.Update your forked Space following the [Tutorail](build-space.md#tutorial).
-* 3.Share your Space on Twitter
-  * Content must be in English.
-  * Content must be shared on Twitter, and must tag [@lagrangedao](https://twitter.com/lagrangedao) and [@0xfilswan](https://twitter.com/0xfilswan)
-*   4.Submit the [form](https://forms.gle/YyzotPhHqx4DmCmy9) here with the required details, including
+1.Fork a space from the provided **Base Space** and successfully run it.
 
-    * Link to your Space
-    * Link to the tweet you shared
+2.Update your forked Space following the [Tutorail](build-space.md#tutorial).
 
-    _Note: The form will be open until 00:00, August 14 (EST)_
+3.Share your Space on Twitter
 
-#### **How to be eligible:**
+* Content must be in English.
+* Content must be shared on Twitter, and must tag [@lagrangedao](https://twitter.com/lagrangedao) and [@0xfilswan](https://twitter.com/0xfilswan)
+
+4.Submit the [form](https://forms.gle/YyzotPhHqx4DmCmy9) here with the required details, including
+
+* Link to your Space
+* Link to the tweet you shared
+
+_Note: The form will be open until 00:00, August 14 (EST)_
+
+#### **How to Be Eligible:**
 
 * Eligible Space Builders shall build at least one Space that generates at least one image and remains operational for the duration of the event.
 * The [form](https://forms.gle/YyzotPhHqx4DmCmy9) must be submitted upon task completion.&#x20;

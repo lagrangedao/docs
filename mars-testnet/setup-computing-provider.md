@@ -10,20 +10,24 @@ description: This is a guide to Computing Provider
 
 ### **How to Participate:**
 
-* 1\. Follow the [instructions](../computing/computing-provider/) to set up a Computing Provider and keep it online during the Campaign.
-  * At least one GPU.
-  * At least 8 vCPUs.
-  * Minimum 50GB SSD storage
-  * Minimum 32GB memory
-  * Here are the GPUs we recommend:
-    * T4, RTX 4090, 3090Ti, 3090, 3080Ti, 3080, 3060Ti, 2060, 2070, 2080, 2080Ti, A100, H100
-* 2\. Check the [Dashboard](https://provider.lagrangedao.org/provider-status) to confirm that your Computing Provider is running during the campaign period.
-* 3\. Provide feedback on the process, documentation, bugs, and improvement ideas in our [Discord Channel](https://discord.gg/qHEEyQTECX).
-*   4\. Submit the [form](https://docs.google.com/forms/d/e/1FAIpQLSf0JRi18xsp\_YCoQKPuE0azYLDDNwAXBMNIeqwXFMgqVljU1Q/viewform?usp=sf\_link) here with the required details._Note:_&#x20;
+1\. Follow the [instructions](../computing/computing-provider/) to set up a Computing Provider and keep it online during the Campaign.
 
-    &#x20;   _The form will be open until 00:00, August 14 (EST)_
+* At least one GPU.
+* At least 8 vCPUs.
+* Minimum 50GB SSD storage
+* Minimum 32GB memory
+* Here are the GPUs we recommend:
+  * T4, RTX 4090, 3090Ti, 3090, 3080Ti, 3080, 3060Ti, 2060, 2070, 2080, 2080Ti, A100, H100
 
-#### **How to be eligible:**
+2\. Check the [Dashboard](https://provider.lagrangedao.org/provider-status) to confirm that your Computing Provider is running during the campaign period.
+
+3\. Provide feedback on the process, documentation, bugs, and improvement ideas in our [Discord Channel](https://discord.gg/qHEEyQTECX).
+
+4\. Submit the [form](https://docs.google.com/forms/d/e/1FAIpQLSf0JRi18xsp\_YCoQKPuE0azYLDDNwAXBMNIeqwXFMgqVljU1Q/viewform?usp=sf\_link) here with the required details.
+
+_Note: The form will be open until 00:00, August 14 (EST)_
+
+#### **How to Be Eligible:**
 
 * Eligible Computing Provider should have at least one Space that has been deployed to it and keep the Space running during the Campaign.
 * The [form](https://forms.gle/YyzotPhHqx4DmCmy9) must be submitted upon task completion.
