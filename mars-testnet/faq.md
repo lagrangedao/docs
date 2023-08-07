@@ -6,11 +6,46 @@ description: Question & Answers
 
 #### Q: When is the competition?
 
-A: The Mars Testnet is scheduled to take place on August 14th, 2023, 23:59 (EST) — September 10th, 2023, 23:59 (EST)
+A: The Mars Testnet is scheduled to take place on **August 14th, 2023, 23:59 (EST) — September 10th, 2023, 23:59 (EST)**.
 
-#### Q: What is the LAG token?
+### Early Bird Registration FAQs
 
-A: Please check the [token.md](../token.md "mention")
+#### Q: When will I register for the Early Bird form?
+
+A: The Early Bird registration form is open from July 24th, 2023 - August 8th, 2023.
+
+#### Q: What are the Early Bird Benefits?
+
+A: Users will receive the instructions & documentation and assistance. Additionally, there is a higher chance for users to receive rewards.
+
+#### Q: What can we do after registering for the Early Bird form?
+
+A: After registering for the Early Bird program, you should capture the registration evidence to submit it in the Pre-launch Campaign.\
+
+
+### Pre-launch Campaign FAQs
+
+#### Q: What is the Lagrange Pre-launch Campaign?
+
+A: The Lagrange Pre-launch campaign is a series of FilSwan & Lagrange knowledge and community activities. There are several missions launched on Lagrange Zealy opening from August 8th to August 14th.
+
+#### Q: How can access Lagrange Zealy&#x20;
+
+A: Please access to [https://zealy.io/c/lagrangedao/questboard](https://zealy.io/c/lagrangedao/questboard) and enjoy your journey
+
+#### Q: Who is eligible to participate in the Lagrange Pre-Launch Campaign?
+
+A: Everyone is eligible to join the Lagrange Pre-launch Campaign. There are some benefits for the users registered in the Early Bird form & Media Partner.&#x20;
+
+#### Q: Is the pre-launch event free to attend?
+
+A: The pre-launch event will launch on Zealy. It’s a free-of-charge platform so there is no fee needed.
+
+#### Q: Can attendees provide feedback during the pre-launch event?
+
+A: Absolutely! We highly value the feedback of our attendees. There will be dedicated feedback sessions where attendees can share their thoughts, suggestions, and insights.
+
+### Main Event FAQs
 
 #### Q: How can I participate in the testnet?
 
@@ -23,14 +58,13 @@ We will inform you of all the news about the missions on all FilSwan social plat
 
 #### Q: What is the Tesnet token? and How can I get the testnet token?
 
-A: The Mumbai Testnet will be used in the Lagrange Tesnet. You can get the test LAG token  via our Discord Channel.[\
-](https://sepoliafaucet.com/)
+A: The Mumbai Testnet will be used in the Lagrange Tesnet. You can get the test LAG token  via our Discord Channel.
 
 #### Q: Which network are we using in the testnet and what wallet should I use during the testnet?
 
 A: We will use Metamask Wallet. You can switch to Mumbai Network in your Metamask by adding the Mumbai network. Remember to turn on the “show test networks” option from your wallet. &#x20;
 
-#### &#x20;Q: What should the users do on the Lagrange Mars Testnet?
+#### Q: What should the users do on the Lagrange Mars Testnet?
 
 A: The testnet allows you to perform various types of testing. In terms of experience, you will get 3 tasks belonging to 3 different types of participants:&#x20;
 
