@@ -10,9 +10,9 @@ description: This is a guide to Space Builder
 
 #### **How to participate:**
 
-1\. Fork a space from the provided [Stable Diffusion Base Space](https://testnet.lagrangedao.org/spaces/0x3350BfBCd9AC435cD3c410BC98E1Ec5b94a662e5/base-test/app) and successfully run it.
+1\. Fork a space from the provided [Stable Diffusion Base Space](https://lagrangedao.org/spaces/0x6091b2f5678952cAfbf02755D78973EBff302e11/Stable-Diffusion-Base-LoRA/card) and successfully run it.
 
-2\. Update your forked Space following the Tutorial.
+2\. Update your forked Space following the [Tutorial](build-space.md#tutorial).
 
 3\. Share your Space on Twitter
 
