@@ -1,9 +1,3 @@
----
-description: >-
-  To provide developers with code hosting, deployment, a fast testing
-  environment, and demos all in one platform as a web3 developing tool.
----
-
 # Introduction
 
 Lagrange is an all-in-one decentralized computing platform to store and deploy code securely, empowering developers to build web3 apps through a full suite of Web3 tooling.
