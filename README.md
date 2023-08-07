@@ -6,18 +6,20 @@ description: >-
 
 # Introduction
 
-Web3 developers can’t make the code hosting, deployment, testing and running demos in one place. What’s more, they can’t take full advantage of decentralized storage and computing resources in the Web3 environment.&#x20;
+Lagrange is an all-in-one decentralized computing platform to store and deploy code securely, empowering developers to build web3 apps through a full suite of Web3 tooling.
 
-With the Lagrange DAO platform, developers can display applications efficiently with the support of decentralised storage and computing.Developers can also get massive traffic and revenue from in-app-purchasing on  the Lagrange DAO platform.
+Web3 developers can’t make the code hosting, deployment, testing, and running demos in one place. What’s more, they can’t take full advantage of decentralized storage and computing resources in the Web3 environment.\
 
-Key features of Lagrange DAO include:
 
-1. Lagrange Spaces: These are virtual spaces for data sharing and analytics, allowing researchers to collaborate on scientific projects. These spaces offer public infrastructure for storing, sharing, creating, rewarding, and disseminating scientific knowledge in a fair and equitable manner.
-2. Decentralized Computing Power Renting Network: Lagrange DAO provides a platform for community members to rent out their computing power to researchers and users. This decentralized approach ensures that computing resources are available to a wide range of users, promoting accessibility and reducing the centralization of computing power.
-3. Token-based incentives: To encourage participation in the platform and maintain a sustainable ecosystem, Lagrange DAO may have its native token. Researchers, contributors, and computing power providers can earn tokens for their contributions to the platform. These tokens can then be used to access services, rent computing power, or participate in governance.
-4. Transparent and fair governance: As a DAO, Lagrange operates under a decentralized governance model, enabling community members to actively participate in decision-making processes. This ensures that the platform remains transparent, fair, and aligned with the best interests of its users.
-5. Interoperability: Lagrange DAO is designed to be compatible with other blockchain platforms and protocols, promoting collaboration and integration with existing Web3 projects.
+With the Lagrange platform, developers can display applications efficiently with the support of decentralized storage and computing. Developers can also get massive traffic and revenue from in-app-purchasing on the Lagrange platform.
 
-By leveraging blockchain technology and decentralized networks, Lagrange DAO is working towards creating a more accessible, transparent, and equitable ecosystem for scientific research and data sharing. This has the potential to drive innovation and improve the quality of scientific outputs, ultimately benefiting the broader scientific community and society as a whole.
+### Key features of Lagrange include
+
+1. **Lagrange Space**: Enables fair and equitable storage, sharing, creation, reward, and dissemination of knowledge and development resources.&#x20;
+2. **Git Style Management**: Offers a distributed version control tool, Lagrange-cli, making a local clone of the project as a complete version control space in IPFS.&#x20;
+3. **Decentralized Computing Power**: Community members can rent out their computing power to researchers and users.&#x20;
+4. **DApps Deployment:** Auto-deploy DApps by Dockerfile and yaml, enabling real-time testing and implementation.&#x20;
+5. **Data NFT minting**: Dataset owners can tokenize their uploaded datasets on the Lagrange platform.&#x20;
+6. **Decentralized Code Hosting**: Hosting of all space code in distributed IPFS by multichain storage.
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td><a href="datasets/">Datasets</a></td><td></td></tr><tr><td></td><td><a href="models.md">Models</a></td><td></td></tr><tr><td></td><td><a href="spaces/">Spaces</a></td><td></td></tr><tr><td></td><td><a href="computing/">Computing</a></td><td></td></tr><tr><td></td><td><a href="mars-testnet/">Mars Testnet</a></td><td></td></tr></tbody></table>
