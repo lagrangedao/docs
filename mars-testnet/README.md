@@ -62,7 +62,7 @@ _Join us on our_ [_Discord channel_](https://discord.gg/GRxpvefPmk) _and keep an
 
 * Early Birds registration closes: August 8th
 * Early Birds get their documentation: August 10th
-* Zealy Quest onboarding: August 8th - August 13th
+* Zealy Quest onboarding: August 8th - August 14th
 * Mars Testnet Campaign: August 14th - September 10th
 * Workshop series: August 14th - September 10th
 * Participants selected and announced: September 20th
