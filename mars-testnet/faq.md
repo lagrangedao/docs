@@ -23,16 +23,12 @@ We will inform you of all the news about the missions on all FilSwan social plat
 
 #### Q: What is the Tesnet token? and How can I get the testnet token?
 
-A: The SepoliaETH will be used in the Lagrange Tesnet. You can get the Sepolia ETH on several current Sepolia faucets such as:&#x20;
-
-[https://access.rockx.com/faucet-sepolia](https://access.rockx.com/faucet-sepolia)
-
-[https://sepoliafaucet.com/\
+A: The Mumbai Testnet will be used in the Lagrange Tesnet. You can get the test LAG token  via our Discord Channel.[\
 ](https://sepoliafaucet.com/)
 
 #### Q: Which network are we using in the testnet and what wallet should I use during the testnet?
 
-A: We will use Metamask Wallet. You can switch to Sepolia Network in your Metamask by adding the Sepolia network. Remember to turn on the “show test networks” option from your wallet. &#x20;
+A: We will use Metamask Wallet. You can switch to Mumbai Network in your Metamask by adding the Mumbai network. Remember to turn on the “show test networks” option from your wallet. &#x20;
 
 #### &#x20;Q: What should the users do on the Lagrange Mars Testnet?
 
