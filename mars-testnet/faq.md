@@ -49,12 +49,7 @@ A: Absolutely! We highly value the feedback of our attendees. There will be dedi
 
 #### Q: How can I participate in the testnet?
 
-A:
-
-* For Computing Provider, you need to submit your info to the Early Bird registration form [here](https://docs.google.com/forms/d/e/1FAIpQLSdzTM1dgdrTBfNCXM-TZYMwLrX5cbOeO6tEjpIqTSwe7zTWoQ/viewform). &#x20;
-* For the developers and regular users, you can submit your info to the registration form publishing after the Early Bird registration form closes.&#x20;
-
-We will inform you of all the news about the missions on all FilSwan social platforms. Stay tuned to not miss any mission.&#x20;
+A:  Feel free to explore [**this page**](https://mars-testnet.lagrangedao.org/) to review tutorials and instructions tailored to the specific tasks that pique your interest. Engage in the campaign activities until the official launch **at 00:00 on August 14th (EST).**
 
 #### Q: What is the Tesnet token? and How can I get the testnet token?
 
