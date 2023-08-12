@@ -34,6 +34,6 @@ To get some test LAG tokens of Lagrange testnet for testing purposes, you can jo
 
 `Token contract address:`
 
-`0x3CF24790B3af64029564E81B67aF299dB83Fd9e3`
+`0xD36e888b351F5AD1dFF8c609af3D1010ECA7e23b`
 
 \
