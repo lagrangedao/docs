@@ -29,4 +29,15 @@ Visit the [Polygon Testnet Faucet](https://faucet.polygon.technology/). Paste yo
 
 Please note that the function is on the Polygon Testnet environment and speed times may differ compared to mainnet usage.
 
+#### Claim test LAG Tokens from Discord Faucet[​](https://docs.bnbchain.org/docs/bsc-faucet#claim-tbnb-tokens-from-discord-faucet)
+
+To get some test LAG tokens of Lagrange testnet for testing purposes, you can join the discord and go to the **test-faucet** channel under the **Mars - Testnet** section. There you can claim your test LAG token for free.
+
+1. Type the command $faucet {your-wallet-address}.
+2. Switch to the Mumbai Testnet , import tokens in your wallet and check your balance.
+
+`Token contract address:`
+
+`0x3CF24790B3af64029564E81B67aF299dB83Fd9e3`
+
 \
