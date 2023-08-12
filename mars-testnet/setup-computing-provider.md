@@ -12,11 +12,14 @@ description: This is a guide to Computing Provider
 
 1\. Follow the [instructions](../computing/computing-provider/) to set up a Computing Provider and keep it online during the Campaign.
 
-* At least one GPU.
-* At least 8 vCPUs.
+* Possess a public IP
+* Have a wildcard domain name (\*.example.com)
+* Have an SSL certificate
+* Have at least one GPU
+* At least 8 vCPUs
 * Minimum 50GB SSD storage
 * Minimum 32GB memory
-* Minimum 50Mb bandwidth
+* Minimum 50MB bandwidth
 * Here are the GPUs we recommend:
   * T4, RTX 4090, 3090Ti, 3090, 3080Ti, 3080, 3060Ti, 2060, 2070, 2080, 2080Ti, A100, H100
 
