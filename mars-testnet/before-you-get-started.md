@@ -17,7 +17,7 @@ Block Explorer URL: https://mumbai.polygonscan.com
 
 ### Connect to the Lagrange
 
-Visit https://lagrangedao.org/ and connect your MetaMask
+Visit [https://lagrangedao.org](https://lagrangedao.org) and connect your MetaMask
 
 #### Fund Your Wallet with test MATIC Tokens
 
