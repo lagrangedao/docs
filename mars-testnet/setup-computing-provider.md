@@ -43,13 +43,3 @@ _Note: The form will be open until 00:00, August 14 (EST)_
   * Total GPU hours: the sum of the duration of all GPUs that’s been used for running Space
 * The Top 1 wins the **Golden CP privilege**
 
-## Tutorial
-
-**Coming soon!**
-
-The Tutorial and documentation for the Lagrange Mars Testnet will be officially released on **August 14**. However, if you don't want to wait until then, you can apply for the [**Early Bird Registration**](https://docs.google.com/forms/d/e/1FAIpQLSdzTM1dgdrTBfNCXM-TZYMwLrX5cbOeO6tEjpIqTSwe7zTWoQ/viewform?usp=sf\_link) here to receive it in advance.&#x20;
-
-* Early bird registration closes: **23:59, August 8 (EST)**
-* Early birds get the tutorial on **August 10**, 4 days before the campaign starts
-* The earlier you get the tutorial, the sooner you can set up your Computing Provider , increasing your chances of winning more rewards
-

@@ -54,7 +54,7 @@ sudo docker run --detach \
   registry:2
 ```
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 * The following configuration needs to be set on each node in the Kubernetes cluster:
 
@@ -79,7 +79,7 @@ systemctl restart docker
 docker system info
 ```
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 3. Install Kubernetes
 
@@ -98,7 +98,7 @@ kubectl get po -A
 
 Once you have installed it successfully, you will see the screen below:
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Note:** Remove the node's taint mark.
 
@@ -127,7 +127,7 @@ kubectl get po -n kube-system
 
 Once you have installed it successfully, you will see the screen below:
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 6. Install Ingress-nginx Controller
 
@@ -147,7 +147,7 @@ kubectl get po -n ingress-nginx
 
 Once you have installed it successfully, you will see the screen below:
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```bash
 kubectl get svc -n ingress-nginx

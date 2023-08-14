@@ -14,6 +14,8 @@
 * [Spaces](spaces/README.md)
   * [Creating Space](spaces/creating-space/README.md)
     * [Docker Space](spaces/spaces.md)
+    * [how to upload file Using UI](spaces/creating-space/how-to-upload-file-using-ui.md)
+    * [how to Create file Using UI](spaces/creating-space/how-to-create-file-using-ui.md)
   * [Forking Space](spaces/forking-space.md)
   * [Space Settings](spaces/space-settings/README.md)
     * [Instance Type](spaces/space-settings/instance-type.md)
