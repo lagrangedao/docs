@@ -43,3 +43,6 @@ _Note: The form will be open until 00:00, August 14 (EST)_
   * Total GPU hours: the sum of the duration of all GPUs that’s been used for running Space
 * The Top 1 wins the **Golden CP privilege**
 
+## Tutorial
+
+Refer to [computing](../computing/ "mention")
