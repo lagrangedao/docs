@@ -10,7 +10,7 @@ description: This is a guide to Computing Provider
 
 ### **How to Participate:**
 
-1\. Follow the [instructions](../computing/computing-provider/) to set up a Computing Provider and keep it online during the Campaign.
+1\. Follow the [instructions](https://github.com/lagrangedao/go-computing-provider/tree/mars-testnet) to set up a Computing Provider and keep it online during the Campaign.
 
 * Possess a public IP
 * Have a wildcard domain name (\*.example.com)
