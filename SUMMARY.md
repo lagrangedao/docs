@@ -13,7 +13,7 @@
   * [Start the Computing Provider](computing/start-the-computing-provider.md)
 * [Models](models.md)
 * [Spaces](spaces/README.md)
-  * [Creating Space](spaces/creating-space.md)
+  * [Creating Space](spaces/creating-space/README.md)
   * [Forking Space](spaces/forking-space.md)
   * [Run Space](spaces/run-space.md)
   * [Space Settings](spaces/space-settings/README.md)
