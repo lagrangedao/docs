@@ -14,7 +14,7 @@
 
 5\. Set your Space’s visibility to either public or private.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Building Your First Space
 
@@ -27,23 +27,20 @@ The sample app will consist of the following three files:
 * `Dockerfile` — Sets up our environment, installs `requirements.txt`, then launches `app.py`
 * `README.md`— a markdown file that gives other users a detailed description of your Space and will be displayed on the Space card.
 
-1\. To follow along, create each file shown below via the web interface.&#x20;
+1\. start by selecting the **Files  and version** tab, and then clicking **Contribute**. You’ll be given the option to create a new file or upload a file directly from your computer.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-#### **Option 1:** Create a File
+#### **Option 1:** Create a New File
 
-Navigate to your Space’s **Files and versions** tab, then choose **Contribute** → **Create a new file.**
+Choosing to create a new file will take you to the following editor screen, where you can choose a name for your file, add content, and save your file.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **Option 2:**  Upload Files
 
-if you prefer, you can also upload each file to the Space.
+If you choose _**Upload file**_ you’ll be able to choose a local file to upload.
 
 <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 After you have created and populated all the necessary files, commit each new file to your repository by clicking on the **Commit new file** / **Commit changes** button.
-
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
-
