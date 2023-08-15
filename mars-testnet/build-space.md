@@ -98,10 +98,11 @@ However, if the available models do not precisely align with your image preferen
 
 \# Command example:
 
-| RUN wget \<model\_download\_link> -0 /stable-diffusion-webui/models/Lora/\<your\_model\_name> |
-| --------------------------------------------------------------------------------------------- |
+```
+RUN wget <model_download_link> -0 /stable-diffusion-webui/models/Lora/<your_model_name>
+```
 
-![](https://lh6.googleusercontent.com/JaUXPWNgWgo640KbJou5RLRtsUjc2X0LDdDZ-azOUxHzKFD2p25gLtUORnh\_fxBiNvK9x3ovlkkD5vyfbDdaAN0yY2\_uAxyDu6WZMnev5l7zk0XPR2mDly5qye32xdoAyvPOWHREK1IDqyH4AL-sQ84)
+<figure><img src="https://lh6.googleusercontent.com/JaUXPWNgWgo640KbJou5RLRtsUjc2X0LDdDZ-azOUxHzKFD2p25gLtUORnh_fxBiNvK9x3ovlkkD5vyfbDdaAN0yY2_uAxyDu6WZMnev5l7zk0XPR2mDly5qye32xdoAyvPOWHREK1IDqyH4AL-sQ84" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://lh5.googleusercontent.com/1I0zD-K1uGyOd7eFGgAsyePJ4yuPT_lEJzIafUD3Ui3i_zmo9L9V3XHqAu-MI9E_TlX46Xqdwife-dZYO3zsUkhFLIsCf7x4TvFTKbg0QA5bDube_2Y7A9yustMgqhKpzNVtf2E8K3k-E40LUmrxCbA" alt=""><figcaption></figcaption></figure>
 
@@ -125,9 +126,11 @@ To set up your Stable Diffusion Space for generating images from textual descrip
 * Here are the GPUs we recommend:
   * T4, RTX 4090, 3090Ti, 3090, 3080Ti, 3080, 3060Ti, 2060, 2070, 2080, 2080Ti, A100, H100
 
+**Ensure you choose hardware with at least one GPU**; without it, Stable Diffusion Space won't function.
+
 And proceed with the payment.
 
-<figure><img src="https://lh4.googleusercontent.com/QrdX0E4o4arOYk9XEyLfDdT5r-MVa-bqMOGOJ7i7Ay7OGKNt_z4cSPSGue063EJItX2IQmMjVBv8FQskG2eqfPFeOuvFBdtj45BvAoecY6W3Kiu1Lv8AwBehcxj4IXQmNvC1U6ZPxIgFJNhQeFa5wTc" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://lh3.googleusercontent.com/ur12FW4N4N9oFzS5J5nO55B5wZMb9wHtVV6kvkC5oHumsfut9B9cDmDvSlabaezsQ9HN_7ebG9s4wwAlOHsRmB-X2laTri9PAf5228lLlCAOAexnb_LE_UXW6MXfyhryuSlZbNApJwtjwxXiU1LoKOI" alt=""><figcaption></figcaption></figure>
 
