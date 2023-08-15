@@ -47,8 +47,92 @@ Refer to [computing](../computing/ "mention")
 
 ## FAQ
 
+#### **Q: Is it possible to use a port other than 80 and 443 in the wildcard domain(\*.exmaple.com)?**
 
+A: No, it is not possible.
 
+#### Q: Is the "pod" used for communication, and "Calico" is used to manage this communication within the cluster?&#x20;
 
+Both are used for intra-cluster communication. You can use one of these approaches.
 
-Q:&#x20;
+#### Q: If someone didn't apply for early bird, can they still join and run the computing provider tasks?
+
+A: Of course, they can also follow the [instruction](../computing/) to set up a Computing Provider.
+
+#### Q: Can I move my computing provider to a new one while maintaining my previous server? Will this reset my uptime?
+
+A: Yes, you need to move  `.swan_node` to the new server. The uptime will not be reset.
+
+#### Q: How can I know if the status of the computing provider is normal?
+
+Run the following command:
+
+```
+bashCopy codecurl --location --request POST 'http://<YOUR_MULTI_ADDRESS_IP>:<PORT>/api/v1/computing/lagrange/jobs' \
+--header 'Content-Type: application/json' \
+--data-raw '{
+"uuid": "5641877b-dc94-469a-bb3b-ecab6d10f7dd",
+"name": "Job-5641877b-dc94-469a-bb3b-ecab6d10f7dd",
+"status": "Submitted",
+"duration": 1800,
+"job_source_uri": "https://api.lagrangedao.org/spaces/0x6091b2f5678952cAfbf02755D78973EBff302e11/Minesweeper",
+"storage_source": "lagrange",
+"task_uuid": "92cd5595-9789-4af3-9100-7c7e4aacb456"
+}'
+```
+
+After running this command, wait for 3-5 minutes, and then execute&#x20;
+
+```
+`kubectl get ing -n ns-0x6091b2f5678952cafbf02755d78973ebff302e11`
+```
+
+Find the hosts corresponding to the name `ing-minesweeper` and ensure that the domain can be accessed in a browser to confirm its normal status.
+
+#### Q: My node has been running for so long, yet the uptime is 0%.
+
+1\. Run the following command:
+
+```bash
+curl http://<YOUR_MULTI_ADDRESS_IP>:<PORT>/api/v1/computing/host/info
+```
+
+2\. Compare the returned result with the example provided below. If they are different, you should review your port mappings.
+
+Example result:
+
+```json
+{"status":"success","code":"","data":{"swan_miner_version":"","operating_system":"linux","architecture":"amd64","cpu_cores":48}}
+```
+
+3\. If your port mappings are correct and the result matches the example, then proceed to check the configuration file of the computing provider.&#x20;
+
+Ensure that the `MultiAddress` is set exactly as `"/ip4/<public_ip>/tcp/<port>"`.
+
+#### Q: Which ports need to be mapped?&#x20;
+
+You need to map the internal IP of the CP and port 8085, as well as the public IP and port.
+
+Map your wildcard domain (\*.example.com) to your public IP.&#x20;
+
+Additionally, you need to map port 80/443 of your internal IP to port 80/443 of your public IP.
+
+#### Q: I've done all the port mappings, but why is the uptime still 0%?
+
+1\. Run the following command:
+
+```bash
+curl http://<YOUR_MULTI_ADDRESS_IP>:<PORT>/api/v1/computing/host/info
+```
+
+2\. Compare the returned result with the example provided below. If they are different, you should review your port mappings.
+
+Example result:
+
+```json
+{"status":"success","code":"","data":{"swan_miner_version":"","operating_system":"linux","architecture":"amd64","cpu_cores":48}}
+```
+
+3\. If your port mappings are correct and the result matches the example, then proceed to check the configuration file of the computing provider.&#x20;
+
+Ensure that the `MultiAddress` is set exactly as `"/ip4/<public_ip>/tcp/<port>"`.
