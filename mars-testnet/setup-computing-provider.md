@@ -29,8 +29,6 @@ description: This is a guide to Computing Provider
 
 4\. Submit the [form](https://docs.google.com/forms/d/e/1FAIpQLSf0JRi18xsp\_YCoQKPuE0azYLDDNwAXBMNIeqwXFMgqVljU1Q/viewform?usp=sf\_link) here with the required details.
 
-_Note: The form will be open until 00:00, August 14 (EST)_
-
 #### **How to Be Eligible:**
 
 * Eligible Computing Provider should have at least one Space that has been deployed to it and keep the Space running during the Campaign.
@@ -49,36 +47,8 @@ Refer to [computing](../computing/ "mention")
 
 ## FAQ
 
-Q: if someone didnt apply for early bird, can he still join and run the computer provider tasks?
-
-A: of course, they could.
 
 
 
-Q: want to ask about kubernetes, if in this system need 8vCPU can I build with kubernetes 2vCPU x 4 node ?
 
-
-
-Q: can I move my CP to a now one if my previous server maintain? is that will reset my uptime ?
-
-A：yes,you need move the .swan\_node to new new one together，the uptime will not be reset
-
-
-
-Q：How the %uptime on dashboard is calculated? My node is running 10 hours and have 0% uptime.
-
-
-
-Q: How to know whether the status of the node is normal？
-
-
-
-Q: my node running up then 12 hours，and have 0% uptime, restart the node doesn't help
-
-
-
-Q: NVIDIA GeForce RTX 3070, in the dashboard, i can't see GPU info in details
-
-
-
-Q:Are there any recommendations for vps services that can run this node?
+Q:&#x20;

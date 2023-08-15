@@ -22,8 +22,6 @@ description: This is a guide to Image Creator
 * Link to your image on Multichain.Storage
 * Link to the tweet you shared
 
-_Note: The form will be open until 00:00, August 14 (EST)_
-
 **How to Be Eligible:**
 
 * Eligible Image Creator shall create at least 3 images from any Stable Diffusion Spcae in Lagrange.

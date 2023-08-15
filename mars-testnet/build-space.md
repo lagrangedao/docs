@@ -24,8 +24,6 @@ description: This is a guide to Space Builder
 * Link to your Space
 * Link to the tweet you shared
 
-_Note: The form will be open until 00:00, August 14 (EST)_
-
 #### **How to Be Eligible:**
 
 * Eligible Space Builders shall build at least one Space that generates at least one image and remains operational for the duration of the event.
