@@ -53,8 +53,9 @@ Refer to [computing](../computing/ "mention")
 
 Run the following command:
 
-\
-_\*Note: Please replace `<YOUR_MULTI_ADDRESS_IP>:<PORT>` with your actual multi-address IP and port._
+{% hint style="info" %}
+_**\*Note: Please replace**** ****`<YOUR_MULTI_ADDRESS_IP>:<PORT>`**** ****with your actual multi-address IP and port.**_
+{% endhint %}
 
 ```
 codecurl --location --request POST 'http://<YOUR_MULTI_ADDRESS_IP>:<PORT>/api/v1/computing/lagrange/jobs' \
@@ -84,6 +85,10 @@ Find the hosts corresponding to the name `ing-minesweeper` and ensure that the d
 **A**:
 
 1\. Run the following command:
+
+{% hint style="info" %}
+_**Ensure that****  ****`<YOUR_MULTI_ADDRESS_IP>`**** ****is the Public IP.**_
+{% endhint %}
 
 ```bash
 curl http://<YOUR_MULTI_ADDRESS_IP>:<PORT>/api/v1/computing/host/info
