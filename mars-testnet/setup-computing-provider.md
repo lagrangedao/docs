@@ -49,21 +49,23 @@ Refer to [computing](../computing/ "mention")
 
 #### **Q: Is it possible to use a port other than 80 and 443 in the wildcard domain(\*.exmaple.com)?**
 
-A: No, it is not possible.
+**A**: No, it is not possible.
 
 #### Q: Is the "pod" used for communication, and "Calico" is used to manage this communication within the cluster?&#x20;
 
-Both are used for intra-cluster communication. You can use one of these approaches.
+**A**: Both are used for intra-cluster communication. You can use one of these approaches.
 
 #### Q: If someone didn't apply for early bird, can they still join and run the computing provider tasks?
 
-A: Of course, they can also follow the [instruction](../computing/) to set up a Computing Provider.
+**A**: Of course, they can also follow the [instruction](../computing/) to set up a Computing Provider.
 
 #### Q: Can I move my computing provider to a new one while maintaining my previous server? Will this reset my uptime?
 
-A: Yes, you need to move  `.swan_node` to the new server. The uptime will not be reset.
+**A**: Yes, you need to move  `.swan_node` to the new server. The uptime will not be reset.
 
 #### Q: How can I know if the status of the computing provider is normal?
+
+**A**:&#x20;
 
 Run the following command:
 
@@ -91,6 +93,8 @@ Find the hosts corresponding to the name `ing-minesweeper` and ensure that the d
 
 #### Q: My node has been running for so long, yet the uptime is 0%.
 
+**A**:
+
 1\. Run the following command:
 
 ```bash
@@ -111,13 +115,15 @@ Ensure that the `MultiAddress` is set exactly as `"/ip4/<public_ip>/tcp/<port>"`
 
 #### Q: Which ports need to be mapped?&#x20;
 
-You need to map the internal IP of the CP and port 8085, as well as the public IP and port.
+**A**: You need to map the internal IP of the CP and port 8085, as well as the public IP and port.
 
 Map your wildcard domain (\*.example.com) to your public IP.&#x20;
 
 Additionally, you need to map port 80/443 of your internal IP to port 80/443 of your public IP.
 
-#### Q: I've done all the port mappings, but why is the uptime still 0%?
+#### Q: I've done all the port mappings, but why is the uptime still 0%
+
+**A**:
 
 1\. Run the following command:
 
