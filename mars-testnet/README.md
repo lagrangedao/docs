@@ -10,6 +10,16 @@ We are excited to invite you to be a part of the Lagrange Testnet, interacting w
 
 🗓️ Campaign Duration: 14th August, 00:00 (EST) - 10th September, 23:59 (EST)
 
+### Event Website
+
+[http://mars-testnet.lagrangedao.org](https://t.co/HHT2ek6Wr8) ![📝](https://abs-0.twimg.com/emoji/v2/svg/1f4dd.svg)
+
+### Task List: ![1️⃣](https://abs-0.twimg.com/emoji/v2/svg/31-20e3.svg)&#x20;
+
+* Deploy Computing Provider
+* Run  Spaces
+* Use  Spaces
+
 ## Mission
 
 Lagrange's Mars Testnet is the first attempt to utilize enormous computing and storage resources of Filecoin, Chainlink, BNB Chain, and other blockchains for Web3 developers.
