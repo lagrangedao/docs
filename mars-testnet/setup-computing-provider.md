@@ -58,7 +58,7 @@ _**\*Note: Please replace**** ****`<YOUR_MULTI_ADDRESS_IP>:<PORT>`**** ****with 
 {% endhint %}
 
 ```
-codecurl --location --request POST 'http://<YOUR_MULTI_ADDRESS_IP>:<PORT>/api/v1/computing/lagrange/jobs' \
+curl --location --request POST 'http://<YOUR_MULTI_ADDRESS_IP>:<PORT>/api/v1/computing/lagrange/jobs' \
 --header 'Content-Type: application/json' \
 --data-raw '{
 "uuid": "5641877b-dc94-469a-bb3b-ecab6d10f7dd",
