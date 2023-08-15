@@ -47,30 +47,17 @@ Refer to [computing](../computing/ "mention")
 
 ## FAQ
 
-#### **Q: Is it possible to use a port other than 80 and 443 in the wildcard domain(\*.exmaple.com)?**
-
-**A**: No, it is not possible.
-
-#### Q: Is the "pod" used for communication, and "Calico" is used to manage this communication within the cluster?&#x20;
-
-**A**: Both are used for intra-cluster communication. You can use one of these approaches.
-
-#### Q: If someone didn't apply for early bird, can they still join and run the computing provider tasks?
-
-**A**: Of course, they can also follow the [instruction](../computing/) to set up a Computing Provider.
-
-#### Q: Can I move my computing provider to a new one while maintaining my previous server? Will this reset my uptime?
-
-**A**: Yes, you need to move  `.swan_node` to the new server. The uptime will not be reset.
-
 #### Q: How can I know if the status of the computing provider is normal?
 
 **A**:&#x20;
 
 Run the following command:
 
+\
+_\*Note: Please replace `<YOUR_MULTI_ADDRESS_IP>:<PORT>` with your actual multi-address IP and port._
+
 ```
-bashCopy codecurl --location --request POST 'http://<YOUR_MULTI_ADDRESS_IP>:<PORT>/api/v1/computing/lagrange/jobs' \
+codecurl --location --request POST 'http://<YOUR_MULTI_ADDRESS_IP>:<PORT>/api/v1/computing/lagrange/jobs' \
 --header 'Content-Type: application/json' \
 --data-raw '{
 "uuid": "5641877b-dc94-469a-bb3b-ecab6d10f7dd",
@@ -85,11 +72,12 @@ bashCopy codecurl --location --request POST 'http://<YOUR_MULTI_ADDRESS_IP>:<POR
 
 After running this command, wait for 3-5 minutes, and then execute&#x20;
 
-```
-`kubectl get ing -n ns-0x6091b2f5678952cafbf02755d78973ebff302e11`
-```
+<pre><code><strong>kubectl get ing -n ns-0x6091b2f5678952cafbf02755d78973ebff302e11
+</strong></code></pre>
 
 Find the hosts corresponding to the name `ing-minesweeper` and ensure that the domain can be accessed in a browser to confirm its normal status.
+
+<img src="../.gitbook/assets/image (21).png" alt="" data-size="original">
 
 #### Q: My node has been running for so long, yet the uptime is 0%.
 
@@ -115,30 +103,26 @@ Ensure that the `MultiAddress` is set exactly as `"/ip4/<public_ip>/tcp/<port>"`
 
 #### Q: Which ports need to be mapped?&#x20;
 
-**A**: You need to map the internal IP of the CP and port 8085, as well as the public IP and port.
+**A**: Here are the ports you need to map
 
-Map your wildcard domain (\*.example.com) to your public IP.&#x20;
+1\. You need to map the CP's internal IP and its port (default 8085), as well as the public IP and port.
 
-Additionally, you need to map port 80/443 of your internal IP to port 80/443 of your public IP.
+2\. Map your wildcard domain (\*.example.com) to your public IP.&#x20;
 
-#### Q: I've done all the port mappings, but why is the uptime still 0%
+3\. Additionally, you need to map port 80 of your internal IP to port 80 of your public IP, as well as port 443 of your internal IP to port 443 of your public IP.
 
-**A**:
+#### **Q: Is it possible to use a port other than 80 and 443 in the wildcard domain(\*.exmaple.com)?**
 
-1\. Run the following command:
+**A**: No, it is not possible.
 
-```bash
-curl http://<YOUR_MULTI_ADDRESS_IP>:<PORT>/api/v1/computing/host/info
-```
+#### Q: Is the "pod" used for communication, and "Calico" is used to manage this communication within the cluster?&#x20;
 
-2\. Compare the returned result with the example provided below. If they are different, you should review your port mappings.
+**A**: Both are used for intra-cluster communication. You can use one of these approaches.
 
-Example result:
+#### Q: If someone didn't apply for early bird, can they still join and run the computing provider tasks?
 
-```json
-{"status":"success","code":"","data":{"swan_miner_version":"","operating_system":"linux","architecture":"amd64","cpu_cores":48}}
-```
+**A**: Of course, they can also follow the [instruction](../computing/) to set up a Computing Provider.
 
-3\. If your port mappings are correct and the result matches the example, then proceed to check the configuration file of the computing provider.&#x20;
+#### Q: Can I move my computing provider to a new one while maintaining my previous server? Will this reset my uptime?
 
-Ensure that the `MultiAddress` is set exactly as `"/ip4/<public_ip>/tcp/<port>"`.
+**A**: Yes, you need to move  `.swan_node` to the new server. The uptime will not be reset.
