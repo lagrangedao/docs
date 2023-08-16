@@ -21,7 +21,7 @@ description: This is a guide to Computing Provider
 * Minimum 32GB memory
 * Minimum 50MB bandwidth
 * Here are the GPUs we recommend:
-  * T4, RTX 4090, 3090Ti, 3090, 3080Ti, 3080, 3060Ti, 2060, 2070, 2080, 2080Ti, A100, H100
+  * T4, RTX 4090, 3090Ti, 3090, 3080Ti, 3080, 3060Ti, 2060, 2070, 2080, 2080Ti, A100, H100, A4000
 
 2\. Check the [Dashboard](https://provider.lagrangedao.org/provider-status) to confirm that your Computing Provider is running during the campaign period.
 
