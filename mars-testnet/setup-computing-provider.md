@@ -116,6 +116,10 @@ Ensure that the `MultiAddress` is set exactly as `"/ip4/<public_ip>/tcp/<port>"`
 
 3\. Additionally, you need to map port 80 of your internal IP to port 80 of your public IP, as well as port 443 of your internal IP to port 443 of your public IP.
 
+#### Q: Where should I create the API key?
+
+**A**: you must use the API of [https://multichain.storage,](https://multichain.storage,) and login in it using Polygon mainnet wallet.
+
 #### **Q: Is it possible to use a port other than 80 and 443 in the wildcard domain(\*.exmaple.com)?**
 
 **A**: No, it is not possible.
