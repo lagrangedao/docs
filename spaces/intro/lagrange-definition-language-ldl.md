@@ -109,10 +109,10 @@ Each service to be deployed has an entry in the `deployment`. This entry is maps
 Example:
 
 ```
-web:
-  westcoast:
-    profile: web
-    count: 20
+deployment:
+  minesweeper:
+    lagrange:
+      count: 1
 ```
 
 This says that the 20 instances of the `web` service should be deployed to a datacenter matching the `westcoast` datacenter profile. Each instance will have the resources defined in the `web` compute profile available to it.
