@@ -64,8 +64,8 @@ curl --location --request POST 'http://<YOUR_MULTI_ADDRESS_IP>:<PORT>/api/v1/com
 "uuid": "5641877b-dc94-469a-bb3b-ecab6d10f7dd",
 "name": "Job-5641877b-dc94-469a-bb3b-ecab6d10f7dd",
 "status": "Submitted",
-"duration": 1800,
-"job_source_uri": "https://api.lagrangedao.org/spaces/0x6091b2f5678952cAfbf02755D78973EBff302e11/Minesweeper",
+"duration": 900,
+"job_source_uri": "https://api.lagrangedao.org/spaces/51d6abbb-f928-43e4-91fd-79e93e2b276f",
 "storage_source": "lagrange",
 "task_uuid": "92cd5595-9789-4af3-9100-7c7e4aacb456"
 }'

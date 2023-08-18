@@ -28,11 +28,12 @@ The top-level `services` entry contains a map of workloads to be run on the Lagr
 | Name         | Required | Meaning                                                                                                                                                       |
 | ------------ | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `image`      | Yes      | <p>Docker image of the container Best practices:</p><ul><li>avoid using <code>:latest</code> image tags as Computing Providers heavily cache images</li></ul> |
-| `depends-on` | No       | _**NOTE - field is marked for future use and currently has no impact on deployments.**_                                                                       |
+| `expose`     | Yes      | Entities allowed to connect to the services. See services.expose​                                                                                             |
+| `depends-on` | No       | specifying dependencies for a particular service, indicates that the mentioned service relies on or requires certain other service to function properly       |
 | `command`    | No       | Custom command use when executing container                                                                                                                   |
 | `args`       | No       | Arguments to custom command use when executing the container                                                                                                  |
 | `env`        | No       | Environment variables to set in running container. See services.env​                                                                                          |
-| `expose`     | No       | Entities allowed to connect to the services. See services.expose​                                                                                             |
+| `ready`      | No       | _**NOTE - field is marked for future use and currently has no impact on deployments.**_                                                                       |
 
 #### services.env <a href="#services.env" id="services.env"></a>
 
