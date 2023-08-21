@@ -14,7 +14,7 @@
 
 5\. Set your Space’s visibility to either public or private.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Building Your First Space
 
@@ -26,16 +26,24 @@ The sample app will consist of the following three files:
 * `app.py` — A Python script where we will write our FastAPI app
 * `Dockerfile` — Sets up our environment, installs `requirements.txt`, then launches `app.py`
 * `README.md`— a markdown file that gives other users a detailed description of your Space and will be displayed on the Space card.
+*   `Configuration file` - a `Dockerfile` or a YAML file which is written using Lagrange's declarative configuration language (LDL).
+
+
+
+You can create each file via the web interface. or upload it via the web interface or lagrange.cli
+
+\
+
 
 1\. start by selecting the **Files  and version** tab, and then clicking **Contribute**. You’ll be given the option to create a new file or upload a file directly from your computer.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 #### **Option 1:** Create a New File
 
 Choosing to create a new file will take you to the following editor screen, where you can choose a name for your file, add content, and save your file.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **Option 2:**  Upload Files
 
