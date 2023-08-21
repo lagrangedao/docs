@@ -15,7 +15,7 @@
 * [Space](spaces/README.md)
   * [Intro](spaces/intro/README.md)
     * [Lagrange Definition Language(LDL)](spaces/intro/lagrange-definition-language-ldl.md)
-  * [Create Space](spaces/create-space.md)
+  * [Create Space](spaces/create-space/README.md)
   * [Build Space](spaces/build-space/README.md)
     * [Option 1: Create Files](spaces/build-space/option-1-create-files.md)
     * [Option 2: Upload Files](spaces/build-space/option-2-upload-files.md)
