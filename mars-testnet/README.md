@@ -12,9 +12,9 @@ We are excited to invite you to be a part of the Lagrange Testnet, interacting w
 
 ### Event Website
 
-[http://mars-testnet.lagrangedao.org](https://t.co/HHT2ek6Wr8) ![📝](https://abs-0.twimg.com/emoji/v2/svg/1f4dd.svg)
+[http://mars-testnet.lagrangedao.org](https://t.co/HHT2ek6Wr8)&#x20;
 
-### Task List: ![1️⃣](https://abs-0.twimg.com/emoji/v2/svg/31-20e3.svg)&#x20;
+### Task List: &#x20;
 
 * Deploy Computing Provider
 * Run  Spaces
