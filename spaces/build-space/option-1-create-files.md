@@ -4,7 +4,7 @@
 
 <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-Choosing to create a new file will take you to the following editor screen, where you can choose a name for your file, add content, and save your file.
+2\. And then you can choose a name for your file, add content, and save your file by clicking on "Commit new file".
 
 <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
