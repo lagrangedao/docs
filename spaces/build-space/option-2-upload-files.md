@@ -83,10 +83,5 @@ Replace `<your_access_token>` with the token you obtained in the previous step.
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-When deploying a Space, provide either a **Dockerfile** or **Deploy.yaml**, or both. If both are provided, **Deploy.yaml** is the main configuration file.
+When deploying a Space, provide either a **Dockerfile** or **Deploy.yaml**, or both. If both are provided, [**Deploy.yaml** ](../intro/lagrange-definition-language-ldl.md)is the main configuration file.
 {% endhint %}
-
-* Dockerfile: Defines a custom Docker image for your Space app, including dependencies, environment setup, etc.
-* Deploy.YAML: a YAML file that is written using Lagrange's declarative configuration language (LDL).
-
-For more info about LDL, refer to [**Lagrange Definition Language**](../intro/lagrange-definition-language-ldl.md)**.**
