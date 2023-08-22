@@ -14,4 +14,4 @@ In determining the choice of deployment file, consider the following:
 * Use a `dockerfile` if you don't have a pre-built image.
 * Use `deploy.yaml` if you have an existing image to deploy.
 * For many files, [**Lagrange-cli**](../intro/lagrange-cli.md) is recommended to choose to upload them.
-* For large files, upload to [**Multichain.Storage**](https://www.multichain.storage/) first, and add its IPFS link to your `dockerfile` or `deploy.yaml`.
+* For large files( ＞50MB）, upload to [**Multichain.Storage**](https://www.multichain.storage/) first, and add its IPFS link to your `dockerfile` or `deploy.yaml`.
