@@ -42,7 +42,7 @@ lag commit -m "commit message"
 
 **6.Configure API Token:**&#x20;
 
-You will be prompted to set your API token. Go to your Lagrange **Profile→Settings→Access Tokens**, and get your access token.
+You will be prompted to set your API token. Go to your [**Lagrange**](https://lagrangedao.org/main) **Profile→Settings→Access Tokens**, and get your access token.
 
 In your terminal, use the following command to set your API token:
 
