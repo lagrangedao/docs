@@ -1,13 +1,17 @@
 # Build Space
 
-After creating a Space, you'll have an empty repository where it's time to develop your code.&#x20;
+After creating a Space, you'll have an empty repository to develop your code. A configuration file is required - either a `Dockerfile` or `Deploy.yaml`.
 
-The sample app will consist of the following three files:
+* A `Dockerfile` is a text document that contains all the commands a user could call on the command line to assemble an image.&#x20;
+* A `Deploy.yaml` is a configuration file, written using [Lagrange Definition Language (LDL)](../intro/lagrange-definition-language-ldl.md)**,** which is used to specify deployment details for a Space on the Lagrange.
 
-* `requirements.txt` — Lists the dependencies of a Python project or application
-* `README.md`— a markdown file that gives other users a detailed description of your Space and will be displayed on the Space card.
-* `Configuration file` - a `Dockerfile` or a `Deploy.yaml`&#x20;
-  * A `Dockerfile` is a text document that contains all the commands a user could call on the command line to assemble an image.&#x20;
-  * A `Deploy.yaml` is a configuration file, written using [Lagrange Definition Language (LDL)](../intro/lagrange-definition-language-ldl.md)**,** which is used to specify deployment details for a Space on the Lagrange.
+You can create/upload each file through the [**Web UI**](option-2-web-interface.md) or via [**Lagrange-cli**](../intro/lagrange-cli.md).
 
-You can conveniently **create** each file through the web interface or **upload** them via the same interface or using lagrange-cli.
+### Dockerfile or Deploy.yaml
+
+In determining the choice of deployment file, consider the following:
+
+* Use a `Dockerfile` if you don't have a pre-built image.
+* Use `Deploy.yaml` if you have an existing image to deploy.
+* For many files, lagrange-cli is recommended.
+* For large files, upload to Multichain.Storage first.

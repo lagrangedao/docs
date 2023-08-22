@@ -1,37 +1,17 @@
-# Option 2: Upload Files
+# Option 1: Langrange-cli
 
-### 1. **Upload Files via Web Interface**
+Lagrange-cli is a distributed version control tool, which means that a local clone of the project is a complete version control space in IPFS.
 
-Start by selecting the **Files and version** tab, and then clicking **Contribute** → **Upload files.**
-
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
-
-Note that, if you prefer, you can also utilize **Lagrange.cli** to upload code files to your Space
-
-### 2. Upload Files via Lagrange.cli
-
-#### 2.1 How to install
-
-**Clone and Install `lagrange-cli`:** Clone the `lagrange-cli` repository and install it using pip:
-
-```bash
-git clone git@github.com:lagrangedao/lagrange-cli.git
-cd lagrange-cli
-pip install.
-```
-
-#### **2.2 How to use**
+#### **How to use**
 
 **1. Copy Space Link:** After creating your space on Lagrange, copy the link. It will look like this: `https://lagrangedao.org/<type>/<wallet_address>/<name>`.
 
-
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 **2. Clone Your Space:** Open your terminal and run the following command to clone your space repository:
 
 ```bash
-git clone <space_link>
+lag clone <space_link>
 ```
 
 Replace `<space_link>` with the link, you copied in Step 1.
