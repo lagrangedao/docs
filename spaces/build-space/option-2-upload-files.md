@@ -6,8 +6,6 @@ Lagrange-cli is a distributed version control tool, which means that a local clo
 
 **1. Copy Space Link:** After creating your space on Lagrange, copy the link. It will look like this: `https://lagrangedao.org/<type>/<wallet_address>/<name>`.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
 **2. Clone Your Space:** Open your terminal and run the following command to clone your space repository:
 
 ```bash
@@ -42,13 +40,7 @@ Commit the added files with a descriptive message:
 lag commit -m "commit message"
 ```
 
-**6. Push Changes to Dataset:** Push your committed changes to your designated dataset using:
-
-```bash
-lag push <space_link>
-```
-
-7\. **Configure API Token:**&#x20;
+**6.Configure API Token:**&#x20;
 
 You will be prompted to set your API token. Go to your Lagrange **Profile→Settings→Access Tokens**, and get your access token.
 
@@ -62,6 +54,8 @@ Replace `<your_access_token>` with the token you obtained in the previous step.
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
-When deploying a Space, provide either a **Dockerfile** or **Deploy.yaml**, or both. If both are provided, [**Deploy.yaml** ](../intro/lagrange-definition-language-ldl.md)is the main configuration file.
-{% endhint %}
+**7. Push Changes to Dataset:** Push your committed changes to your designated dataset using:
+
+```bash
+lag push <space_link>
+```

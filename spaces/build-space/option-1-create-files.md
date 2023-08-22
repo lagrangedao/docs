@@ -13,7 +13,7 @@ You have the choice to create a new file or upload your existing files through t
 <figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-When deploying a Space, provide either a **Dockerfile** or **Deploy.yaml**, or both. If both are provided, [**Deploy.yaml** ](../intro/lagrange-definition-language-ldl.md)is the main configuration file.
+When deploying a Space, provide either a **`dockerfile`** or **`deploy.yaml`**, or both. If both are provided, **`deploy.yaml`** takes precedence and will be executed while the **`dockerfile`**will be ignored.
 {% endhint %}
 
 ### Upload Files
