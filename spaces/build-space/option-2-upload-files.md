@@ -14,13 +14,13 @@ lag clone <space_link>
 
 Replace `<space_link>` with the link, you copied in Step 1.
 
-**3. Navigate to Dataset Folder:** Change your directory to the dataset folder created during the clone. Its name matches your space's name:
+**3. Navigate to Folder:** Change your directory to the folder created during the clone. Its name matches your space's name:
 
 ```bash
 cd <space_name>
 ```
 
-**4. Add Code Files:** Copy your code files and paste them into the dataset folder (same as your space's name).
+**4. Add Code Files:** Copy your code files and paste them into the folder (same as your space's name).
 
 **5. Add and Commit Files:** Inside the cloned repository, add the code files you want to commit:
 
@@ -54,7 +54,7 @@ Replace `<your_access_token>` with the token you obtained in the previous step.
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-**7. Push Changes to Dataset:** Push your committed changes to your designated dataset using:
+**7. Push Changes to Space:** Push your committed changes to your Space using:
 
 ```bash
 lag push <space_link>
