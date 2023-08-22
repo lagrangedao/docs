@@ -24,4 +24,4 @@ When deploying a Space, provide either a **`dockerfile`** or **`deploy.yaml`**, 
 
 <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Note that, if you prefer, you can also utilize [**Lagrange.cli**](../intro/lagrange-cli.md) to upload code files to your Space
+Note that, if you prefer, you can also utilize **Lagrange-cli** to upload code files to your Space
