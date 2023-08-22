@@ -25,7 +25,7 @@ Lagrange Spaces comes with a range of essential features, such as live reloading
     * Begin your Lagrange journey by creating a new Space.&#x20;
 
 
-2.  [**Build Your Space**](../mars-testnet/build-space.md)**:**
+2.  [**Build Your Space**](build-space/)**:**
 
     * Developing your code within your Space through the web interface
 
