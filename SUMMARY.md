@@ -11,6 +11,7 @@
   * [Install Redis service](computing/install-redis-service.md)
   * [Build and config the Computing Provider](computing/build-and-config-the-computing-provider.md)
   * [Start the Computing Provider](computing/start-the-computing-provider.md)
+  * [FAQ](computing/faq.md)
 * [Models](models.md)
 * [Space](spaces/README.md)
   * [Intro](spaces/intro/README.md)
