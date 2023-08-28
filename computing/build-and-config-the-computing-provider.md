@@ -6,18 +6,16 @@
 
 ```bash
 git clone https://github.com/lagrangedao/go-computing-provider.git
+cd go-computing-provider
 git checkout mars-testnet
 ```
 
 Then build the Computing provider follow the below steps:
 
-```bash
-cd go-computing-provider
-
-go mod tidy
-
+<pre class="language-bash"><code class="lang-bash"><strong>go mod tidy
+</strong>
 go build -o computing-provider main.go
-```
+</code></pre>
 
 * Update Configuration The computing provider's configuration sample locate in `./go-computing-provider/config.toml.sample`
 
