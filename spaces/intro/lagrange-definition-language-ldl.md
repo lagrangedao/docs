@@ -117,7 +117,9 @@ deployment:
 
 This says that the 20 instances of the `web` service should be deployed to a datacenter matching the `westcoast` datacenter profile. Each instance will have the resources defined in the `web` compute profile available to it.
 
-#### Here is a [sample:](https://lagrangedao.org/spaces/0x7E0c07e66CD480CDa94dEaaeEB5a84Fa9F8215e6/CodiMD-Test)
+
+
+**The final `deploy.yaml` should look like this:**
 
 ```
 version: "2.0"
@@ -164,3 +166,5 @@ deployment:
     lagrange:
       count: 1
 ```
+
+Check out [here](https://lagrangedao.org/spaces/0x7E0c07e66CD480CDa94dEaaeEB5a84Fa9F8215e6/CodiMD-Test/files) to interact with the sample Space.
