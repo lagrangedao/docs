@@ -35,6 +35,15 @@ The top-level `services` entry contains a map of workloads to be run on the Lagr
 | `env`        | No       | Environment variables to set in running container. See services.env​                                                                                          |
 | `ready`      | No       | _**NOTE - field is marked for future use and currently has no impact on deployments.**_                                                                       |
 
+#### services.depends-on <a href="#services.env" id="services.env"></a>
+
+`depends-on` specifies dependencies for a particular service, indicates that the mentioned service relies on or requires certain other service to function properly
+
+```
+    depends-on:
+       - db
+```
+
 #### services.env <a href="#services.env" id="services.env"></a>
 
 A list of environment variables to expose to the running container.
@@ -125,46 +134,16 @@ This says that the 20 instances of the `web` service should be deployed to a dat
 version: "2.0"
 
 services:
-  db:
-    image: postgres:11.6-alpine
-    env:
-      - POSTGRES_USER=codimd
-      - POSTGRES_PASSWORD=rootadmin
-      - POSTGRES_DB=codimd
+  minesweeper:
+    image: creepto/minesweeper
     expose:
-        - port: 5432
-          as: 5432
-          to:
-            - service: db
-    ready-cmd:
-        - "psql"
-        - "-w"
-        - "-U"
-        - "codimd"
-        - "-d"
-        - "codimd"
-        - "-c"
-        - "SELECT 1"
-  codimd:
-    image: hackmdio/hackmd:2.4.1
-    env:
-      - CMD_DB_URL=postgres://codimd:rootadmin@127.0.0.1:5432/codimd
-      - CMD_USECDN=false
-    depends-on:
-      - db
-    expose:
-        - port: 3000
-          as: 3000
-          to:
-            - global: true
-
+      - port: 3000
+        as: 80
+    
 deployment:
-  db:
-    lagrange:
-      count: 1
-  codimd:
+  minesweeper:
     lagrange:
       count: 1
 ```
 
-Check out [here](https://lagrangedao.org/spaces/0x7E0c07e66CD480CDa94dEaaeEB5a84Fa9F8215e6/CodiMD-Test/files) to interact with the sample Space.
+Check out [here](https://lagrangedao.org/spaces/0x7E0c07e66CD480CDa94dEaaeEB5a84Fa9F8215e6/miner-bomb-bomb/files) to interact with the sample Space.
