@@ -1,3 +1,7 @@
+---
+description: The Kubernetes version should be v1.24.0+
+---
+
 # Install the Kubernetes
 
 ### Install Container Runtime Environment
@@ -99,14 +103,6 @@ To create a Kubernetes cluster, you can use a container management tool like `ku
 * [Install the kubeadm toolbox](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/).
 * [Create a Kubernetes cluster with kubeadm](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/create-cluster-kubeadm/)
 
-
-
-* If you are a single-host Kubernetes cluster, remember to remove the taint mark, otherwise, the task can not be scheduled to it.
-
-```bash
-kubectl taint node ${nodeName}  node-role.kubernetes.io/control-plane:NoSchedule-
-```
-
 ### Install the Network Plugin
 
 Calico is an open-source **networking and network security solution for containers**, virtual machines, and native host-based workloads. Calico supports a broad range of platforms including **Kubernetes**, OpenShift, Mirantis Kubernetes Engine (MKE), OpenStack, and bare metal services.
@@ -141,6 +137,16 @@ kubectl taint nodes --all node-role.kubernetes.io/master-
 If you have installed it correctly, you can see the result shown in the figure by the command `kubectl get po -A`
 
 <figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+
+**Note:**
+
+* If you are a single-host Kubernetes cluster, remember to remove the taint mark, otherwise, the task can not be scheduled to it.
+
+```
+kubectl taint node ${nodeName}  node-role.kubernetes.io/control-plane:NoSchedule-
+```
+
+
 
 #### Install the NVIDIA Plugin
 
