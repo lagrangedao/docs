@@ -39,7 +39,7 @@ The equation for a weekly score is the same except that the time period of which
 
 ### Reachability: 
 ```
-(# of succesful requests - # of failed requests) / total # of requests made to provider by server
+(# of successful requests - # of failed requests) / total # of requests made to provider by server
 ```
 The Lagrange server will periodically send a ping to each provider. If the provider receives the ping and the server receives a response back, then the request will be saved as a success. Otherwise, the request will be saved as failed.
 
