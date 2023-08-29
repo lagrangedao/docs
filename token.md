@@ -14,7 +14,7 @@ The Lagrange token has 3 stages:
 
 Testnet: SepoliaETH
 
-Lagrange Testnet Token (LAG) is used on langrage testnet. The first time it is deployed is during the Mars Testnet. LAG testnet token does not has value and can get it from the faucet.
+Lagrange Testnet Token (LAG) is used on langrage testnet. The first time it is deployed is during the Mars Testnet. LAG testnet token does not have value and can get it from the faucet.
 
 #### Swan Testnet&#x20;
 
@@ -24,7 +24,7 @@ Swan Testnet Token (Swan) is used on Swan Testnet. The Swan Testnet  is designed
 
 #### Swan Mainnet
 
-Bsse Chain: ETH
+Base Chain: ETH
 
 Swan is a L2 blockchain on Ethereum with Rollup technology.
 
