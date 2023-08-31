@@ -71,7 +71,7 @@ Ensure that the `MultiAddress` is set exactly as `"/ip4/<public_ip>/tcp/<port>"`
 
 #### Q: Where should I create the API key?
 
-**A**: you must use the API of [https://multichain.storage,](https://multichain.storage,) and login in it using Polygon mainnet wallet.
+**A**: you must use the API of [https://multichain.storage](https://multichain.storage), and login in it using Polygon mainnet wallet.
 
 #### Q: What are the requirements for SSL certificates needed in CP?&#x20;
 
