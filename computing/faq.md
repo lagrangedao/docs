@@ -33,6 +33,8 @@ Find the hosts corresponding to the name `ing-minesweeper` and ensure that the d
 
 <img src="../.gitbook/assets/image (21).png" alt="" data-size="original">
 
+####
+
 #### Q: My node has been running for so long, yet the uptime is 0%.
 
 **A**:
@@ -59,6 +61,8 @@ Example result:
 
 Ensure that the `MultiAddress` is set exactly as `"/ip4/<public_ip>/tcp/<port>"`.
 
+####
+
 #### Q: Which ports need to be mapped?&#x20;
 
 **A**: Here are the ports you need to map
@@ -69,9 +73,39 @@ Ensure that the `MultiAddress` is set exactly as `"/ip4/<public_ip>/tcp/<port>"`
 
 3\. Additionally, you need to map port 80 of your internal IP to port 80 of your public IP, as well as port 443 of your internal IP to port 443 of your public IP.
 
+
+
+#### Q: If the following errors are encountered when the Computing Provider is building containers, how can it be resolved?
+
+```
+{"stream":"Err:1 http://deb.debian.org/debian bullseye InRelease\\n Temporary failure resolving 'deb.debian.org'\\n"}
+
+{"stream":"Err:2 http://security.debian.org/debian-security bullseye-security InRelease\\n Temporary failure resolving 'security.debian.org'\\n"}
+```
+
+**A:**
+
+This issue is caused by incorrect DNS configuration for Docker. To fix it:
+
+* Edit /etc/docker/daemon.json and add the following line:
+
+```
+"dns": ["114.114.114.114","8.8.8.8"],
+```
+
+* Restart Docker:
+
+```
+sysyemctl restart docker
+```
+
+####
+
 #### Q: Where should I create the API key?
 
 **A**: you must use the API of [https://multichain.storage](https://multichain.storage), and login in it using Polygon mainnet wallet.
+
+####
 
 #### Q: What are the requirements for SSL certificates needed in CP?&#x20;
 
@@ -79,17 +113,25 @@ Ensure that the `MultiAddress` is set exactly as `"/ip4/<public_ip>/tcp/<port>"`
 
 Otherwise, the application won't be displayed correctly on the Space App page.
 
+####
+
 #### **Q: Is it possible to use a port other than 80 and 443 in the wildcard domain(\*.exmaple.com)?**
 
 **A**: No, it is not possible.
+
+####
 
 #### Q: Is the "pod" used for communication, and "Calico" is used to manage this communication within the cluster?&#x20;
 
 **A**: Both are used for intra-cluster communication. You can use one of these approaches.
 
+####
+
 #### Q: If someone didn't apply for early bird, can they still join and run the computing provider tasks?
 
 **A**: Of course, they can also follow the [**instruction**](./) to set up a Computing Provider.
+
+####
 
 #### Q: Can I move my computing provider to a new one while maintaining my previous server? Will this reset my uptime?
 
