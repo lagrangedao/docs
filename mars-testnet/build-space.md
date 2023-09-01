@@ -92,17 +92,17 @@ However, if the available models do not precisely align with your image preferen
 
 1\. Find models you liked from[ Civitai](https://civitai.com/?query=lora) and[ Hugging Face](https://huggingface.co/models?search=lora), and get the downloading link of the model.
 
-2\. Go to \[Files and versions] and Update the Dockerfile , you need to replace the \<model\_download\_link> and \<your\_model\_name>, then add the below command to the Dockerfile:
+2\. Go to \[Files and versions] and Update the Dockerfile, you need to replace the \<model\_download\_link> and \<your\_model\_name>, then add the below command to the Dockerfile:
 
 \# Command example:
 
 ```
-RUN wget <model_download_link> -0 /stable-diffusion-webui/models/Lora/<your_model_name>
+RUN wget <model_download_link> -O /stable-diffusion-webui/models/Lora/<your_model_name>
 ```
 
 <figure><img src="https://lh6.googleusercontent.com/JaUXPWNgWgo640KbJou5RLRtsUjc2X0LDdDZ-azOUxHzKFD2p25gLtUORnh_fxBiNvK9x3ovlkkD5vyfbDdaAN0yY2_uAxyDu6WZMnev5l7zk0XPR2mDly5qye32xdoAyvPOWHREK1IDqyH4AL-sQ84" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://lh5.googleusercontent.com/1I0zD-K1uGyOd7eFGgAsyePJ4yuPT_lEJzIafUD3Ui3i_zmo9L9V3XHqAu-MI9E_TlX46Xqdwife-dZYO3zsUkhFLIsCf7x4TvFTKbg0QA5bDube_2Y7A9yustMgqhKpzNVtf2E8K3k-E40LUmrxCbA" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 #### How to Get Your Space Running
 
