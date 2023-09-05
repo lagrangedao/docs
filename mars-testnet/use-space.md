@@ -67,17 +67,13 @@ What is LoRA: LoRA (Low-Rank Adaptation) is a training technique for fine-tuning
 
 <figure><img src="https://lh5.googleusercontent.com/Mkwn8juseNuvMhNNd0lSX7_R4ZBbekFzCou1cQI3mFeRRPRtj42daPGu9Sn2WF4e_TdlQUTjnXlbeHWV0-T5BJr6xin0A9yPfvBJ3yTFmu8X_mA3UY302QzqkKO3_E0tSz0waKROV5-BrRSo5KXv4Og" alt=""><figcaption></figcaption></figure>
 
-3\. Click on the \[txt2img] tab and select the icon of "Additional Networks" below the "Generate" button, then select \[LoRA].
+3\. Click on \[LoRA] and then several LoRA models will be displayed. Select the one you want to use.
 
-<figure><img src="https://lh6.googleusercontent.com/AFhZ5KFXWFFPphqcW7cctgyWrpuABqd29w4SXv6NzzGB_obg2s9YrT9D_udhVNAHHPdagsZvSb5BYWuXGlXFzd4OwNkCb94Qa6Z4vjXYi2wxy70WKZwVeNOooWDMB1fGxovtaSySONXtvqkuD1f70XE" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="https://lh5.googleusercontent.com/hWsoRovRPx8N0AAYE1fgTokcgar7KedK27asj1sgsKwcGm-3v11K-YVK30uv4Qhqb3SsA0DMIzORUyfEE3YpbR2M_xgEwyvfUmm8SJZi6KOo8iL3FgZJmGar5VS0aryC263ydF_EMUQo_X4y0MK3Xbw" alt=""><figcaption></figcaption></figure>
-
-Several LoRA models will be displayed. Select the one you want to use.
+<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 4\. Each LoRA model has a "Trigger Word", Ensure your prompts include the specific LoRA's trigger word(usually added automatically).
 
-For example, if you choose "KsmRm," its trigger word, \<lora:KsmRm:1>, will be added to the txt automatically.
+For example, if you choose "KsmRm," its trigger word, \<lora:KsmRm:1>, will be added to the text automatically.
 
 <figure><img src="https://lh4.googleusercontent.com/qa6cEuEE0Oob8yDTs04R2QjVf0Lx4l_uqI0dWsdwlSC5pAGdIUEwsw5hT4r6CArrLOmIZdMFbLD6Sc-1o3xwEKyqDEOpW2rXtm3Pu0OZumW0_KENJhF7X5ZWWinHvA0CveehHUNZQCvXX8-j4scgmd0" alt=""><figcaption></figcaption></figure>
 

@@ -76,11 +76,15 @@ What is Automatic111: Stable Diffusion web UI (AUTOMATIC1111 or A1111 for short)
 
 <figure><img src="https://lh6.googleusercontent.com/oRy_T_MNTSJ6bqGTJtiHK_Pw-tzBLhY3r6e1UFzPxxxxD1bh5OImd22rOktVH0Cs1iO-CW1B1-a6J8JYn0GvSy_sZn1PWvuIpNg5yHGTpTI3pgWzxh9Zrm4q2eL-iyW2AAYlgOA29FZR1LN4CGw9t3c" alt=""><figcaption></figcaption></figure>
 
-3\. Click on the \[Just Fork, choose config later], as you have ONLY ONE chance to rename the Space before you choose the config.
+3\. You can either click on the \[Just Fork, choose config later] or select your preferred hardware, and proceed with the payment.
+
+It's recommended to choose "config later" if you anticipate adding more models to your Space in the future to avoid unnecessary redeployments.
 
 <figure><img src="https://lh5.googleusercontent.com/S2daQ_7aiKXdAxCogyBDELByzC282gzCATDRIa9vhx_0xYT8nrqYhAvu5kAvbrE5s-O1kYqzZ1jZYG9pnFYxqK8k-FfD1KFuAMh5g9GJ1GjbYtP5NxueHVCP3QUA3DO25DqUo-jSA63e6hPaJjKizzU" alt=""><figcaption></figcaption></figure>
 
 In your forked Space, click the \[Settings] button and scroll down to the Rename section to rename your Space.
+
+_**Note:** Please note that after you change the Space name, the Space link will also be updated. Make sure to share the new link with others as needed._
 
 <figure><img src="https://lh4.googleusercontent.com/cdSKmw-kdgN5Zlm2mQ05GiCantlI8hbbfc1Ahc5cp6DcU6Fw4dMlftmYWJCskoq6tAl7oB5sXuUm549WhQ9EcIHxt6RLVcnTVwt-228mqOKEZ5KDiXmZintlNr3CeUKLzw5lTksOslWfjwwRFE7Mb1U" alt=""><figcaption></figcaption></figure>
 
