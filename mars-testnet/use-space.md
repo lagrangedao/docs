@@ -4,7 +4,7 @@ description: This is a guide to Image Creator
 
 # Using Space
 
-🗓️ **Event Period:** 14th August, 00:00 (EST) - 10th September, 23:59 (EST)
+🗓️ **Event Period:** 14th August, 00:00 (EST) - 17th September, 23:59 (EST)
 
 ## Rules&#x20;
 

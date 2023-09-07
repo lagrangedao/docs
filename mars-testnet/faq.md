@@ -6,7 +6,7 @@ description: Question & Answers
 
 #### Q: When is the competition?
 
-A: The Mars Testnet is scheduled to take place on **August 14th, 2023, 23:59 (EST) — September 10th, 2023, 23:59 (EST)**.
+A: The Mars Testnet is scheduled to take place on **August 14th, 2023, 23:59 (EST) — September 17th, 2023, 23:59 (EST)**.
 
 ### Early Bird Registration FAQs
 

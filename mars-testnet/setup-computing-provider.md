@@ -4,7 +4,7 @@ description: This is a guide to Computing Provider
 
 # Computing Provider Setup
 
-🗓️ **Event Period：** 14th August, 00:00 (EST) - 10th September, 23:59 (EST)
+🗓️ **Event Period：** 14th August, 00:00 (EST) - 17th September, 23:59 (EST)
 
 ## Rules
 
