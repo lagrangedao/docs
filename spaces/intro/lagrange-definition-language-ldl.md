@@ -34,6 +34,7 @@ The top-level `services` entry contains a map of workloads to be run on the Lagr
 | `args`       | No       | Arguments to custom command use when executing the container                                                                                                  |
 | `env`        | No       | Environment variables to set in running container. See services.env​                                                                                          |
 | `ready`      | No       | _**NOTE - field is marked for future use and currently has no impact on deployments.**_                                                                       |
+| `model`      | No       | A configuration section that defines a list of models for the service                                                                                         |
 
 #### services.depends-on <a href="#services.env" id="services.env"></a>
 
@@ -104,6 +105,26 @@ If no service is given and `global` is true, any client can connect from anywher
 If a service name is given and `global` is `false`, only the services in the current datacenter can connect. If a service name is given and `global` is `true`, services in other datacenters for this deployment can connect.
 
 If `global` is `false` then a service name must be given.
+
+#### service.model
+
+`model` is a configuration section that defines a list of models for the service.Each model in the list has the following properties:
+
+* **name**: This property specifies the name of the model.&#x20;
+* **url**: This property specifies the URL from which the model's data can be downloaded. In other words, it's the location where the model's files are hosted online.
+* **dir**: This property specifies the directory path within the container where the model's files will be stored after they are downloaded from the specified URL.
+
+Example:
+
+```
+services:
+  stable-diffusion-ui:
+    image: sonic868/stable-diffusion:v1.0
+    models:
+      - name: illustroV3.safetensors
+        url: https://civitai.com/api/download/models/151490
+        dir: "/easy-diffusion/models/stable-diffusion"
+```
 
 ### profiles <a href="#profiles" id="profiles"></a>
 
