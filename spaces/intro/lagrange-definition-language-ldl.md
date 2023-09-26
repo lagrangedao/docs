@@ -111,7 +111,7 @@ If `global` is `false` then a service name must be given.
 `model` is a configuration section that defines a list of models for the service.Each model in the list has the following properties:
 
 * **name**: This property specifies the name of the model.&#x20;
-* **url**: This property specifies the URL from which the model's data can be downloaded. In other words, it's the location where the model's files are hosted online.
+* **url**: This property specifies the URL from which the model's data can be downloaded.&#x20;
 * **dir**: This property specifies the directory path within the container where the model's files will be stored after they are downloaded from the specified URL.
 
 Example:
