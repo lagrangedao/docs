@@ -11,7 +11,7 @@ _**\*Note: Please replace**** ****`<YOUR_MULTI_ADDRESS_IP>:<PORT>`**** ****with 
 {% endhint %}
 
 ```
-curl --location --request POST 'http://<YOUR_MULTI_ADDRESS_IP>:<PORT>/api/v1/computing/lagrange/jobs' \
+curl -k --location --request POST 'https://<YOUR_MULTI_ADDRESS_IP>:<PORT>/api/v1/computing/lagrange/jobs' \
 --header 'Content-Type: application/json' \
 --data-raw '{
 "uuid": "5641877b-dc94-469a-bb3b-ecab6d10f7dd",
@@ -46,7 +46,7 @@ _**Ensure that****  ****`<YOUR_MULTI_ADDRESS_IP>`**** ****is the Public IP.**_
 {% endhint %}
 
 ```bash
-curl -K https://<YOUR_MULTI_ADDRESS_IP>:<PORT>/api/v1/computing/host/info
+curl -k https://<YOUR_MULTI_ADDRESS_IP>:<PORT>/api/v1/computing/host/info
 ```
 
 2\. Compare the returned result with the example provided below. If they are different, you should review your port mappings.
