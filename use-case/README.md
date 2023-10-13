@@ -1,6 +1,6 @@
 # Use  Case
 
-（1）AI category
+### AI category
 
 * MusicGen&#x20;
 
@@ -14,7 +14,7 @@
 
 {% embed url="https://lagrangedao.org/spaces/0x6091b2f5678952cAfbf02755D78973EBff302e11/Text-to-Speech/app" %}
 
-（2）Game Category
+### Game Category
 
 * Tetris&#x20;
 
@@ -32,7 +32,7 @@
 
 {% embed url="https://lagrangedao.org/spaces/0x2D1EcD1A88aeE9Fb4CeB1F34C9cd7bE965c78C8D/pac-man/app" %}
 
-（3）Blockchain category
+### Blockchain category
 
 * chainnode-rpc&#x20;
 
@@ -42,7 +42,7 @@
 
 {% embed url="https://lagrangedao.org/spaces/0x6091b2f5678952cAfbf02755D78973EBff302e11/uniswap/app" %}
 
-（4）Tools
+### Tools
 
 * Terminal
 
