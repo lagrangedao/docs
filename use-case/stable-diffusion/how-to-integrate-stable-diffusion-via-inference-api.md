@@ -6,7 +6,7 @@ description: >-
 
 # How to Integrate Stable Diffusion via Inference API
 
-#### Step 1: Obtain the API Endpoint Link
+Step 1: Obtain the API Endpoint Link
 
 1.Visit the [Stable Diffusion Base Space](https://lagrangedao.org/spaces/0x6091b2f5678952cAfbf02755D78973EBff302e11/Stable-Diffusion-Base-LoRA/app), or fork it to build your own Stable Diffusion Space following this [Guide](../../spaces/fork-space.md).
 
@@ -14,25 +14,11 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-
-
-'**Space Detail**' and then '**CP**' (the active one).
-
-Find the '`job_result_url`' by clicking on '`job_result_url`' . This is your API endpoint link. Save it for later use.
-
-<figure><img src="https://lh5.googleusercontent.com/gsw5YunoDtPLNQXmKit7v5fhe9Gw--0rrbCn690TOcNndehHHeu2Gr-AQXzxQw_6X_oOd1nApUDanRCa_Yjdd-u16XwFDgBz_Uth7-I7i9fqLxHIJxjx-3ZEQsTW3c34lkK5XMak1cITgSzz3BY6hmc" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="https://lh4.googleusercontent.com/lzKc9FMG8QQ0be_JVHyjt7n6w8_4BpHsc4oPI_b58s21WEfeNY0n1eAOY7SEziewfHV5lyu6ax-3CVrjGe9OculaWwW3NlwpLCsNW0mxe7aIpUEyObofptQtGOWX7-wvZJzu1mnFdN2VEgMqMDvYBPo" alt=""><figcaption></figcaption></figure>
-
 #### Step 2: Access the API Documentation
 
 The API provides detailed documentation for various image generation tasks. You can access the internal docs via the `/docs` endpoint : `https://<API_ENDPOINT>/docs`
 
 Note: Replace `<API_ENDPOINT>` with the URL obtained in Step 1.
-
-Example URL
-
-`https://fk5ge5uhhu.mars.nebulablock.com/docs`
 
 <figure><img src="https://lh6.googleusercontent.com/xnKGJr5ElE3LVRCP3T1IVlbZPEeMZ-BawjCpE5sz8ILddpQHBq4A32Pc38Q-mD5qtLk-fhdCq5ssleS6pRgt0DYt5F1KuRN5brCx7y4r7ztcSedvmIoPojCS4hfCsA9z5RBF8f3SwHZOiIDR2lYYinM" alt=""><figcaption></figcaption></figure>
 
