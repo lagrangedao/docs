@@ -4,9 +4,15 @@
 
 #### Step 1: Obtain the API Endpoint Link
 
-1.Visit the [Stable Diffusion Base Space](https://lagrangedao.org/spaces/0x6091b2f5678952cAfbf02755D78973EBff302e11/Stable-Diffusion-Base-LoRA/app), or fork it to build your own Stable Diffusion Space following this [Guide](../spaces/fork-space.md).
+1.Visit the [Stable Diffusion Base Space](https://lagrangedao.org/spaces/0x6091b2f5678952cAfbf02755D78973EBff302e11/Stable-Diffusion-Base-LoRA/app), or fork it to build your own Stable Diffusion Space following this [Guide](../../spaces/fork-space.md).
 
-2.Click on '**Space Detail**' and then '**CP**' (the active one).
+2.Click on “Click here to deploy in a new tab", and copy the URL.This is your API endpoint link. Save it for later use.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+
+
+'**Space Detail**' and then '**CP**' (the active one).
 
 Find the '`job_result_url`' by clicking on '`job_result_url`' . This is your API endpoint link. Save it for later use.
 

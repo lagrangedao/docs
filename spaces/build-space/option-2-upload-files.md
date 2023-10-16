@@ -52,7 +52,7 @@ lag config --api-token <your_access_token>
 
 Replace `<your_access_token>` with the token you obtained in the previous step.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **7. Push Changes to Space:** Push your committed changes to your Space using:
 
