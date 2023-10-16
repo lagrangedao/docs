@@ -27,7 +27,7 @@
     * [Instance Type](spaces/space-settings/instance-type.md)
     * [Space Hardware](spaces/space-settings/space-hardware.md)
 * [Use  Case](use-case/README.md)
-  * [Stable Diffusion](use-case/stable-diffusion/README.md)
+  * [Stable Diffusion](use-case/stable-diffusion.md)
     * [How to Build Stable Diffusion Space](use-case/stable-diffusion/how-to-build-stable-diffusion-space.md)
     * [How to Integrate Stable Diffusion via Inference API](use-case/stable-diffusion/how-to-integrate-stable-diffusion-via-inference-api.md)
   * [Diffuser](use-case/diffuser.md)
