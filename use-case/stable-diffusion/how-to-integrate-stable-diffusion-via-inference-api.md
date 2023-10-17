@@ -6,7 +6,7 @@ description: >-
 
 # How to Integrate Stable Diffusion via Inference API
 
-Step 1: Obtain the API Endpoint Link
+#### Step 1: Obtain the API Endpoint Link
 
 1.Visit the [Stable Diffusion Base Space](https://lagrangedao.org/spaces/0x6091b2f5678952cAfbf02755D78973EBff302e11/Stable-Diffusion-Base-LoRA/app), or fork it to build your own Stable Diffusion Space following this [Guide](../../spaces/fork-space.md).
 
@@ -96,7 +96,7 @@ image.save('output.png')
 
 A sample code that should work can look like this:
 
-````
+```
 import json
 import requests
 import io
@@ -133,7 +133,6 @@ r = response.json()
 image = Image.open(io.BytesIO(base64.b64decode(r['images'][0])))
 image.save('output.png')
 ```
-````
 
 
 
@@ -173,7 +172,7 @@ The above code sends a `GET` request to the `/sdapi/v1/sd-models` endpoint, prov
 [ { "title":"chilloutmix-Ni.safetensors [7234b76e42]", "model_name":"chilloutmix-Ni", "hash":"7234b76e42", "sha256":"7234b76e423f010b409268386062a4111c0da6adebdf3a9b1a825937bdf17683", "filename":"/stable-diffusion-webui/models/Stable-diffusion/chilloutmix-Ni.safetensors", "config":null }, { "title":"v1-5-pruned-emaonly.safetensors [6ce0161689]", "model_name":"v1-5-pruned-emaonly", "hash":"6ce0161689", "sha256":"6ce0161689b3853acaa03779ec93eafe75a02f4ced659bee03f50797806fa2fa", "filename":"/stable-diffusion-webui/models/Stable-diffusion/v1-5-pruned-emaonly.safetensors", "config":null } ]
 ```
 
-#### 2: Changing the Model
+#### 2. Changing the Model
 
 You can change the model used for image generation by specifying a new model checkpoint using the `/sdapi/v1/options` endpoint.&#x20;
 
