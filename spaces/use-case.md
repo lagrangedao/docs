@@ -1,6 +1,6 @@
 # Use  Case
 
-### Artificial intelligence (AI)
+### Artificial Intelligence (AI)
 
 <table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center"><strong>Stable Diffusion</strong></td><td><a href="https://lagrangedao.org/spaces/0x6091b2f5678952cAfbf02755D78973EBff302e11/Stable-Diffusion-Base-LoRA/app">https://lagrangedao.org/spaces/0x6091b2f5678952cAfbf02755D78973EBff302e11/Stable-Diffusion-Base-LoRA/app</a></td><td><a href="../.gitbook/assets/1-01.png">1-01.png</a></td></tr><tr><td align="center"><strong>MusicGen</strong></td><td><a href="https://lagrangedao.org/spaces/0x3350BfBCd9AC435cD3c410BC98E1Ec5b94a662e5/MusicGen/app">https://lagrangedao.org/spaces/0x3350BfBCd9AC435cD3c410BC98E1Ec5b94a662e5/MusicGen/app</a></td><td><a href="../.gitbook/assets/1-02.png">1-02.png</a></td></tr><tr><td align="center"><strong>Text-to-Speech</strong></td><td><a href="https://lagrangedao.org/spaces/0x6091b2f5678952cAfbf02755D78973EBff302e11/Text-to-Speech/card">https://lagrangedao.org/spaces/0x6091b2f5678952cAfbf02755D78973EBff302e11/Text-to-Speech/card</a></td><td><a href="../.gitbook/assets/1-03.png">1-03.png</a></td></tr></tbody></table>
 
