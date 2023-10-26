@@ -20,7 +20,7 @@ Here's a general flow of how it works:
 6. **Accessing the External Service**: The External Access Token is used to authenticate the Computing Provider's requests to the External Service and gain access to the resources or capabilities needed to complete the task.\
 
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 In this diagram:
 

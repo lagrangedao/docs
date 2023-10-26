@@ -12,7 +12,7 @@ Instance types are named based on their family, generation, processor family, ad
 
 
 
-<figure><img src="../../.gitbook/assets/image (6) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 #### **Instance families**
 

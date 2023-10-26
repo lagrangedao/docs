@@ -12,9 +12,9 @@ description: >-
 
 2.Click on “Click here to deploy in a new tab", and copy the URL.This is your API endpoint link. Save it for later use.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 #### Step 2: Access the API Documentation
 
