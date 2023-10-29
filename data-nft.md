@@ -10,7 +10,7 @@ A Data NFT represents the ownership and rights for a specific data asset on the 
 
 Data NFTs establishes the ownership of data assets, which would allow for data transferability and data sales while maintaining a verifiable record of ownership. It also allows data owners to define who can access the data, for what purposes, and under what conditions, in order to protect their own intellectual property.
 
-Data NFTs enable the tokenization of the base intellectual property, which maintains a tracable record of ownership on the blockchain, allows for easy transfer and trade of ownership, and provides opportunities for revenue generation through the creation and sale of datatokens associated with the underlying data.
+Data NFTs enable the tokenization of the base intellectual property, which maintains a traceable record of ownership on the blockchain, allows for easy transfer and trade of ownership, and provides opportunities for revenue generation through the creation and sale of datatokens associated with the underlying data.
 
 ## Workflow 🧩
 
