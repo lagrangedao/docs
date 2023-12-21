@@ -12,4 +12,17 @@ For additional info about hardware, refer to the[space-hardware.md](space-settin
 
 <figure><img src="https://lh3.googleusercontent.com/GynEwa-x3Vg008tyW70OlJ11Du-WbouUPAfRhH1WKODaXMIxS6-8RsrVoXxRxgRkQMrPORtnnIkRL2W2usMpMVZNb8V6b5KMeesy_TYVsJm4lu4ikYwThdw4kie1uZWER_6VMdsxdIO5E7aCLchRTmE" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+**Note: There are six types of Space statuses, as follows:**
+
+* **Created**: The Space has been successfully created.
+* **Waiting For Transaction**: Awaiting payment confirmation.
+* **Assigning To Provider**: Matching the Space with a computing provider.
+* **Deploying**: The Space is currently being deployed to the provider.
+* **Running**: The Space has been successfully deployed.
+* **Failed**: The deployment has encountered an error.
+* **Stopped**: The deployment has ceased before its scheduled expiration due to unforeseen reasons.
+* **Expired**: The deployment has concluded upon reaching its expiration date.
+{% endhint %}
+
 With your App going live, you can now interact with it.
